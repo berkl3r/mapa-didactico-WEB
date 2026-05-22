@@ -770,16 +770,16 @@ function openModal(id) {
     </div>
     <div class="modal-field">
       <strong>Recurso de acceso</strong>
-      <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
+      <div class="modal-resources">
         <a href="${tool.link}" target="_blank" rel="noopener" class="modal-link">
-          Ir a ${linkLabel}
+          🌐 Ir a ${linkLabel}
         </a>
         ${tool.youtubeLink ? `
-        <div style="display: flex; flex-direction: column; gap: 0.25rem;">
+        <div class="youtube-resource-wrapper">
           <a href="${tool.youtubeLink}" target="_blank" rel="noopener" class="modal-link youtube-btn">
             🎥 Ver Tutorial en YouTube
           </a>
-          ${tool.youtubeDescription ? `<small style="color: var(--text-muted); font-size: 0.8rem; margin-top: 0.2rem; display: block; max-width: 250px; line-height: 1.2;">${tool.youtubeDescription}</small>` : ''}
+          ${tool.youtubeDescription ? `<span class="youtube-desc">${tool.youtubeDescription}</span>` : ''}
         </div>
         ` : ''}
       </div>

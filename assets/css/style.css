@@ -676,6 +676,30 @@ main {
   box-shadow: 0 6px 20px rgba(220, 38, 38, 0.45);
 }
 
+.modal-resources {
+  display: flex;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+  align-items: flex-start;
+}
+
+.youtube-resource-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.youtube-desc {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  margin-top: 0.4rem;
+  display: block;
+  max-width: 280px;
+  line-height: 1.35;
+  font-family: var(--font-secondary);
+}
+
 /* Justification & Competencies */
 .justification {
   background: #ffffff;
@@ -1006,6 +1030,14 @@ footer a:hover {
     padding: 0.8rem 1.5rem;
     font-size: 0.9rem;
     border-radius: var(--radius-sm);
+  }
+
+  .youtube-resource-wrapper {
+    width: 100%;
+  }
+
+  .youtube-desc {
+    max-width: 100%;
   }
 
   /* 7. Justification Table Mobile (Card Layout) */
