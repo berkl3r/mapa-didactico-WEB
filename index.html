@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo Interactivo - Técnicas y Medios Didácticos</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+  <header class="cover" id="inicio">
+    <div class="cover-content">
+      <h1>Catálogo Interactivo de <span>Técnicas y Medios Didácticos</span></h1>
+      <p class="subtitle">Para la enseñanza de la investigación científica en entornos virtuales</p>
+      <div class="team">
+        <span>👤 Integrante 1</span>
+        <span>👤 Integrante 2</span>
+        <span>👤 Integrante 3</span>
+        <span>👤 Integrante 4</span>
+        <span>👤 Integrante 5</span>
+      </div>
+      <a href="#" class="btn-start" onclick="switchTab('tecnicas'); return false;">Explorar Catálogo ▼</a>
+    </div>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#" data-tab="tecnicas" class="active">📘 Técnicas Didácticas</a></li>
+      <li><a href="#" data-tab="comunicacion">📺 Comunicación y Exposición</a></li>
+      <li><a href="#" data-tab="cocreacion">🤝 Co-creación y Organización</a></li>
+      <li><a href="#" data-tab="evaluacion">📊 Evaluación y Gestión</a></li>
+      <li><a href="#" data-tab="justificacion">📋 Justificación</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="tecnicas" class="section"></section>
+    <section id="comunicacion" class="section"></section>
+    <section id="cocreacion" class="section"></section>
+    <section id="evaluacion" class="section"></section>
+
+    <section id="justificacion" class="section">
+      <div id="justificacion-content" class="justification"></div>
+    </section>
+  </main>
+
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal">
+      <button class="close" onclick="closeModal()">✕</button>
+      <h2 id="modal-title"></h2>
+      <div id="modal-fields"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Catálogo Interactivo de Técnicas y Medios Didácticos — <a href="#inicio">Volver al inicio</a></p>
+    <p style="margin-top:0.5rem;font-size:0.8rem;">Examen Parcial · Todos los integrantes participaron</p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
