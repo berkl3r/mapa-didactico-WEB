@@ -198,6 +198,29 @@ body {
   filter: brightness(1.05);
 }
 
+.cover .btn-start.animating {
+  animation: btnLaunch 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+  pointer-events: none;
+}
+
+@keyframes btnLaunch {
+  0% { transform: translateY(0) scale(1); opacity: 1; }
+  30% { transform: translateY(-12px) scale(1.08); opacity: 1; }
+  60% { transform: translateY(6px) scale(0.96); opacity: 0.8; }
+  80% { transform: translateY(-3px) scale(1.01); opacity: 0.6; }
+  100% { transform: translateY(0) scale(1); opacity: 0.4; }
+}
+
+@keyframes navGlow {
+  0% { box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
+  50% { box-shadow: 0 4px 30px rgba(37, 99, 235, 0.25), 0 2px 10px rgba(0,0,0,0.2); }
+  100% { box-shadow: 0 2px 10px rgba(0,0,0,0.2); }
+}
+
+nav.highlight {
+  animation: navGlow 1s ease 2;
+}
+
 /* Sticky Navigation Bar - Glassmorphism */
 nav {
   position: sticky;
@@ -303,6 +326,29 @@ nav ul li a.active {
   color: var(--text-muted);
 }
 
+.search-clear {
+  background: rgba(15, 23, 42, 0.03);
+  border: 1px solid rgba(15, 23, 42, 0.05);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-right: 0.5rem;
+  transition: var(--transition);
+  outline: none;
+  flex-shrink: 0;
+}
+
+.search-clear:hover {
+  background: rgba(15, 23, 42, 0.08);
+  color: var(--text-primary);
+}
+
 .search-hint {
   position: absolute;
   right: 1rem;
@@ -311,6 +357,13 @@ nav ul li a.active {
   opacity: 0.6;
   pointer-events: none;
   white-space: nowrap;
+  transition: var(--transition);
+}
+
+.search-wrapper:focus-within .search-hint,
+.search-wrapper input:not(:placeholder-shown) ~ .search-hint {
+  opacity: 0;
+  visibility: hidden;
 }
 
 @media (max-width: 640px) {
@@ -506,11 +559,11 @@ main {
   max-width: 750px;
   width: 100%;
   max-height: 85vh;
-  overflow-y: auto;
-  padding: 2.5rem;
-  position: relative;
+  display: flex;
+  flex-direction: column;
   box-shadow: var(--shadow-lg);
   animation: modalScaleIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  overflow: hidden;
 }
 
 @keyframes modalScaleIn {
@@ -518,10 +571,28 @@ main {
   to { transform: scale(1); opacity: 1; }
 }
 
-.modal .close {
-  position: absolute;
-  top: 1.5rem;
-  right: 1.5rem;
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 2.5rem 1.25rem 2.5rem;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.06);
+  background: #ffffff;
+}
+
+.modal-header h2 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #1e3a8a;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex: 1;
+  line-height: 1.2;
+}
+
+.modal-header .close {
   font-size: 1.4rem;
   cursor: pointer;
   color: var(--text-secondary);
@@ -534,23 +605,20 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
+  margin-left: 1rem;
 }
 
-.modal .close:hover {
+.modal-header .close:hover {
   color: var(--accent);
   background: rgba(234, 88, 12, 0.1);
   border-color: rgba(234, 88, 12, 0.2);
 }
 
-.modal h2 {
-  font-size: 2.2rem;
-  font-weight: 800;
-  color: #1e3a8a;
-  margin-bottom: 2rem;
-  padding-right: 2rem;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
+.modal-body {
+  padding: 2rem 2.5rem 2.5rem 2.5rem;
+  overflow-y: auto;
+  flex: 1;
 }
 
 .modal-field {
@@ -713,57 +781,308 @@ footer a:hover {
   }
   
   .justification {
-    padding: 2rem;
+    padding: 2.5rem;
   }
 }
 
 @media (max-width: 768px) {
+  /* 1. Cover (Carátula) Mobile */
   .cover {
-    padding: 6rem 1rem 3rem 1rem;
+    min-height: 100vh;
+    min-height: 100dvh;
+    padding: 2rem 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .cover h1 {
-    font-size: 2.3rem;
+    font-size: 1.95rem;
+    line-height: 1.25;
+  }
+
+  .cover h1 br {
+    display: none;
   }
 
   .cover .subtitle {
-    font-size: 1.05rem;
+    font-size: 0.95rem;
     margin-bottom: 2rem;
+    padding: 0 0.5rem;
   }
 
   .cover .team {
-    gap: 0.75rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
     margin-bottom: 2.5rem;
+    width: 100%;
   }
 
   .cover .team span {
-    padding: 0.6rem 1.1rem;
+    width: auto;
+    max-width: none;
+    justify-content: center;
+    padding: 0.5rem 1rem;
     font-size: 0.85rem;
+  }
+
+  .cover .btn-start {
+    padding: 0.9rem 2.2rem;
+    font-size: 1rem;
+    width: 100%;
+    max-width: 280px;
+    justify-content: center;
+  }
+
+  /* 2. Navigation bar - Capsule/Pill Style */
+  nav {
+    border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+  }
+
+  nav ul {
+    padding: 0.6rem;
+    gap: 0.4rem;
+    scroll-padding: 0.5rem;
+    -webkit-overflow-scrolling: touch;
   }
 
   nav ul li a {
-    padding: 1rem;
-    font-size: 0.85rem;
+    padding: 0.5rem 0.85rem;
+    font-size: 0.8rem;
+    border-radius: 50px;
+    border-bottom: none;
+    background: rgba(15, 23, 42, 0.02);
+    border: 1px solid rgba(15, 23, 42, 0.04);
   }
 
-  .cards-grid {
-    grid-template-columns: 1fr;
+  nav ul li a.active {
+    background: var(--primary);
+    color: #ffffff !important;
+    border-color: var(--primary);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.18);
   }
 
+  /* 3. Search Bar Mobile */
+  .search-container {
+    margin: 1rem auto 1.75rem auto;
+  }
+
+  .search-wrapper {
+    border-radius: var(--radius-sm);
+  }
+
+  .search-wrapper input {
+    font-size: 0.95rem;
+    padding: 0.65rem 0.4rem;
+  }
+
+  .search-icon {
+    font-size: 1.1rem;
+    margin: 0 0.5rem;
+  }
+
+  /* 4. Content Layout Mobile */
   main {
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem;
+  }
+
+  .section-title {
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .section-desc {
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  .subcategory {
+    margin-bottom: 2.5rem;
+  }
+
+  .subcategory-title {
+    font-size: 1.25rem;
+  }
+
+  .subcategory-title::before {
+    height: 18px;
+    width: 3px;
+  }
+
+  /* 5. Cards Mobile */
+  .cards-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .card {
+    padding: 1.25rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .card-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 1.8rem;
+    margin-bottom: 0.75rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .card p {
+    font-size: 0.85rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .card .btn-more {
+    width: 100%;
+    text-align: center;
+    padding: 0.6rem 1rem;
+    font-size: 0.8rem;
+  }
+
+  /* 6. Modal Mobile */
+  .modal-overlay {
+    padding: 0.75rem;
   }
 
   .modal {
-    padding: 1.75rem;
+    max-height: 90vh;
+    max-height: 90dvh;
+    border-radius: var(--radius-md);
   }
 
-  .modal h2 {
-    font-size: 1.6rem;
+  .modal-header {
+    padding: 1.25rem 1.25rem 1rem 1.25rem;
   }
 
-  .justification table {
+  .modal-header h2 {
+    font-size: 1.3rem;
+  }
+
+  .modal-header .close {
+    width: 32px;
+    height: 32px;
+    font-size: 1.1rem;
+    margin-left: 0.75rem;
+  }
+
+  .modal-body {
+    padding: 1.25rem;
+  }
+
+  .modal-field {
+    padding: 0.85rem;
+    margin-bottom: 1rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .modal-field strong {
+    font-size: 0.8rem;
+  }
+
+  .modal-field p {
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+
+  .modal .modal-link {
+    width: 100%;
+    padding: 0.8rem 1.5rem;
+    font-size: 0.9rem;
+    border-radius: var(--radius-sm);
+  }
+
+  /* 7. Justification Table Mobile (Card Layout) */
+  .justification {
+    padding: 1.5rem;
+    border-radius: var(--radius-md);
+  }
+
+  .justification h2 {
+    font-size: 1.5rem;
+  }
+
+  .justification p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  .justification ul {
+    margin: 1rem 0 1.75rem 1.2rem;
+  }
+
+  .justification ul li {
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+
+  .justification table,
+  .justification thead,
+  .justification tbody,
+  .justification th,
+  .justification td,
+  .justification tr {
     display: block;
-    overflow-x: auto;
+    width: 100%;
+  }
+
+  .justification thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .justification tr {
+    border: 1px solid #e2e8f0;
+    margin-bottom: 1.25rem;
+    border-radius: var(--radius-md);
+    background: #ffffff;
+    padding: 0.5rem 0;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .justification td {
+    border: none;
+    border-bottom: 1px solid #f1f5f9;
+    padding: 0.75rem 1rem;
+    font-size: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    text-align: left;
+  }
+
+  .justification td:last-child {
+    border-bottom: none;
+  }
+
+  .justification td::before {
+    content: attr(data-label);
+    position: static;
+    transform: none;
+    width: auto;
+    text-align: left;
+    font-weight: 700;
+    color: var(--primary);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  /* 8. Footer Mobile */
+  footer {
+    padding: 2rem 1.25rem;
+    font-size: 0.85rem;
+    margin-top: 3rem;
   }
 }
+

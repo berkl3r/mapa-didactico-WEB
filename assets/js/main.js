@@ -633,34 +633,34 @@ function renderJustification() {
       </thead>
       <tbody>
         <tr>
-          <td>Pensamiento crítico y analítico</td>
-          <td>Cola de Pescado, Árbol de Problemas, Debates</td>
-          <td>Estructuran problemas y desarrollan argumentación fundamentada</td>
+          <td data-label="Competencia">Pensamiento crítico y analítico</td>
+          <td data-label="Relacionados">Cola de Pescado, Árbol de Problemas, Debates</td>
+          <td data-label="Aporte">Estructuran problemas y desarrollan argumentación fundamentada</td>
         </tr>
         <tr>
-          <td>Gestión de información</td>
-          <td>Zotero, Mendeley, Elicit, Scite.ai</td>
-          <td>Automatizan la recolección, organización y validación de fuentes</td>
+          <td data-label="Competencia">Gestión de información</td>
+          <td data-label="Relacionados">Zotero, Mendeley, Elicit, Scite.ai</td>
+          <td data-label="Aporte">Automatizan la recolección, organización y validación de fuentes</td>
         </tr>
         <tr>
-          <td>Comunicación efectiva</td>
-          <td>Prezi, Genially, Canva, Videos</td>
-          <td>Potencian la presentación visual y narrativa de resultados</td>
+          <td data-label="Competencia">Comunicación efectiva</td>
+          <td data-label="Relacionados">Prezi, Genially, Canva, Videos</td>
+          <td data-label="Aporte">Potencian la presentación visual y narrativa de resultados</td>
         </tr>
         <tr>
-          <td>Trabajo colaborativo remoto</td>
-          <td>Miro, Padlet, Trello, Notion</td>
-          <td>Facilitan la co-creación y organización en equipos distribuidos</td>
+          <td data-label="Competencia">Trabajo colaborativo remoto</td>
+          <td data-label="Relacionados">Miro, Padlet, Trello, Notion</td>
+          <td data-label="Aporte">Facilitan la co-creación y organización en equipos distribuidos</td>
         </tr>
         <tr>
-          <td>Evaluación y retroalimentación</td>
-          <td>Quizizz, Kahoot, Mentimeter, Moodle</td>
-          <td>Permiten evaluar de forma dinámica y dar seguimiento personalizado</td>
+          <td data-label="Competencia">Evaluación y retroalimentación</td>
+          <td data-label="Relacionados">Quizizz, Kahoot, Mentimeter, Moodle</td>
+          <td data-label="Aporte">Permiten evaluar de forma dinámica y dar seguimiento personalizado</td>
         </tr>
         <tr>
-          <td>Innovación tecnológica</td>
-          <td>ChatGPT, Elicit, Scite.ai, Genially</td>
-          <td>Integran IA y recursos interactivos para potenciar la investigación</td>
+          <td data-label="Competencia">Innovación tecnológica</td>
+          <td data-label="Relacionados">ChatGPT, Elicit, Scite.ai, Genially</td>
+          <td data-label="Aporte">Integran IA y recursos interactivos para potenciar la investigación</td>
         </tr>
       </tbody>
     </table>
@@ -716,7 +716,10 @@ function switchTab(tabId) {
   if (target) target.classList.add('active');
 
   const link = document.querySelector(`nav a[data-tab="${tabId}"]`);
-  if (link) link.classList.add('active');
+  if (link) {
+    link.classList.add('active');
+    link.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  }
 
   const searchContainer = document.getElementById('search-container');
   if (searchContainer) {
@@ -738,7 +741,23 @@ let lastSearchSuggestion = '';
 
 function scrollToNav() {
   const nav = document.getElementById('main-nav');
-  if (nav) nav.scrollIntoView({ behavior: 'smooth' });
+  if (nav) nav.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function explorarCatalogo() {
+  const btn = document.getElementById('btn-explorar');
+  if (!btn) return;
+  btn.classList.add('animating');
+  switchTab('tecnicas');
+  setTimeout(() => {
+    const nav = document.getElementById('main-nav');
+    if (nav) {
+      nav.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      nav.classList.add('highlight');
+      setTimeout(() => nav.classList.remove('highlight'), 2000);
+    }
+    setTimeout(() => btn.classList.remove('animating'), 600);
+  }, 350);
 }
 
 function findMatchesInOtherTabs(query, currentTab) {
@@ -782,8 +801,47 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   const searchInput = document.getElementById('search-input');
+  const searchClear = document.getElementById('search-clear');
+
+  function updateClearButton() {
+    if (searchClear && searchInput) {
+      searchClear.style.display = searchInput.value.trim() ? 'flex' : 'none';
+    }
+  }
+
   if (searchInput) {
-    searchInput.addEventListener('input', handleSearch);
+    if (window.innerWidth <= 768) {
+      searchInput.placeholder = "Buscar herramienta... (ej. Zotero)";
+    }
+    
+    window.addEventListener('resize', () => {
+      if (window.innerWidth <= 768) {
+        searchInput.placeholder = "Buscar herramienta... (ej. Zotero)";
+      } else {
+        searchInput.placeholder = "Buscar técnica o herramienta... (ej. Zotero, Ishikawa, Miro, etc.)";
+      }
+    });
+
+    searchInput.addEventListener('input', (e) => {
+      handleSearch(e);
+      updateClearButton();
+    });
+  }
+
+  if (searchClear && searchInput) {
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      updateClearButton();
+      const activeLink = document.querySelector('nav a.active');
+      if (activeLink) {
+        const activeTab = activeLink.dataset.tab;
+        if (['tecnicas', 'comunicacion', 'cocreacion', 'evaluacion'].includes(activeTab)) {
+          renderSection(activeTab);
+        }
+      }
+      searchInput.focus();
+    });
   }
 
   document.getElementById('modal-overlay').addEventListener('click', e => {

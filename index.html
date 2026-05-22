@@ -23,7 +23,7 @@
         <span>👤 Segundo Malca Hernández</span>
         <span>👤 Patricia Haydee Mere</span>
       </div>
-      <a href="#" class="btn-start" onclick="switchTab('tecnicas'); scrollToNav(); return false;">Explorar Catálogo ▼</a>
+      <a href="#" class="btn-start" id="btn-explorar" onclick="explorarCatalogo(); return false;">Explorar Catálogo ▼</a>
     </div>
   </header>
 
@@ -42,6 +42,7 @@
       <div class="search-wrapper">
         <span class="search-icon">🔍</span>
         <input type="text" id="search-input" placeholder="Buscar técnica o herramienta... (ej. Zotero, Ishikawa, Miro, etc.)" aria-label="Buscar herramienta didáctica">
+        <button id="search-clear" class="search-clear" aria-label="Limpiar búsqueda" style="display: none;">✕</button>
         <span class="search-hint">Búsqueda flexible: escribe parcial o completo, sin distinguir mayúsculas/minúsculas</span>
       </div>
     </div>
@@ -58,9 +59,11 @@
 
   <div class="modal-overlay" id="modal-overlay">
     <div class="modal">
-      <button class="close" onclick="closeModal()" aria-label="Cerrar modal">✕</button>
-      <h2 id="modal-title"></h2>
-      <div id="modal-fields"></div>
+      <div class="modal-header">
+        <h2 id="modal-title"></h2>
+        <button class="close" onclick="closeModal()" aria-label="Cerrar modal">✕</button>
+      </div>
+      <div class="modal-body" id="modal-fields"></div>
     </div>
   </div>
 
