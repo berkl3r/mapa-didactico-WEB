@@ -4,11 +4,11 @@ Aquí tienes la lista completa que nos proporcionaste, con los placeholders reem
 
 ### 1. Técnicas de Problematización
 * **Cola de pescado**: [Abrir recurso ↗](https://miro.com/diagramming/what-is-a-fishbone-diagram/)
-* **Árbol de problemas**: [Abrir recurso ↗](https://miro.com/diagramming/problem-tree-analysis/)
-* **Línea de tiempo**: [Abrir recurso ↗](https://www.canva.com/graphs/timeline/)
+* **Árbol de problemas**: [Abrir recurso ↗](https://miro.com/templates/problem-tree/)
+* **Línea de tiempo**: [Abrir recurso ↗](https://www.canva.com/create/timeline-maker/)
 
 ### 2. Organización Conceptual
-* **Mapas conceptuales**: [Abrir recurso ↗](https://www.canva.com/graphs/concept-maps/)
+* **Mapas conceptuales**: [Abrir recurso ↗](https://www.canva.com/create/concept-maps/)
 * **Mapas mentales**: [Abrir recurso ↗](https://www.mindmeister.com/)
 * **Referencia clave (Novak y Cañas)**: [Abrir recurso ↗](https://cmap.ihmc.us/docs/theory-of-concept-maps)
 
@@ -24,7 +24,7 @@ Aquí tienes la lista completa que nos proporcionaste, con los placeholders reem
 * **Videos**: [Abrir recurso ↗](https://www.youtube.com/)
 * **Prezi**: [Abrir recurso ↗](https://prezi.com/)
 * **Genially**: [Abrir recurso ↗](https://genially.com/es/)
-* **Canva**: [Abrir recurso ↗](https://www.canva.com/presentations/)
+* **Canva**: [Abrir recurso ↗](https://www.canva.com/create/presentations/)
 * **PowerPoint interactivo**: [Abrir recurso ↗](https://support.microsoft.com/powerpoint)
 
 ### 6. Comunicación Sincrónica y Académica

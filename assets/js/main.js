@@ -25,7 +25,7 @@ const tools = [
     scientificUse: 'Permite definir con precisión el problema de investigación y visualizar sus dimensiones. Es útil para la elaboración del planteamiento del problema y la justificación del estudio.',
     virtualAdvantages: 'Se puede construir colaborativamente en plataformas como Miro o Lucidchart. Cada miembro del equipo puede añadir causas y efectos desde cualquier ubicación.',
     practicalExample: 'Para investigar la baja producción científica en una universidad, se coloca este problema como tronco, las raíces serían falta de capacitación y recursos, y las ramas serían pocas publicaciones y bajo impacto académico.',
-    link: 'https://miro.com/diagramming/problem-tree-analysis/'
+    link: 'https://miro.com/templates/problem-tree/'
   },
   {
     id: 'lineas-tiempo',
@@ -38,7 +38,7 @@ const tools = [
     scientificUse: 'Ayuda a contextualizar el estado del arte mostrando la evolución de teorías o tecnologías. Facilita la identificación de tendencias y vacíos de conocimiento en la literatura.',
     virtualAdvantages: 'Se pueden crear líneas de tiempo interactivas con herramientas digitales que incluyen imágenes, videos y enlaces, enriqueciendo la experiencia de aprendizaje.',
     practicalExample: 'Al estudiar la evolución de la inteligencia artificial, se traza una línea desde 1950 (prueba de Turing) hasta la actualidad, marcando hitos como Deep Blue, Watson, GPT y demás avances significativos.',
-    link: 'https://www.canva.com/graphs/timeline/'
+    link: 'https://www.canva.com/create/timeline-maker/'
   },
   // Organización Conceptual
   {
@@ -52,7 +52,7 @@ const tools = [
     scientificUse: 'Ideales para estructurar el marco teórico, conceptualizar variables complejas y organizar las categorías de análisis de la investigación.',
     virtualAdvantages: 'Permiten la construcción y discusión en tiempo real dentro de pizarras colaborativas o plataformas de mapas en la nube.',
     practicalExample: 'Estructurar la variable "competencia investigativa" y conectarla jerárquicamente con sus dimensiones teóricas e indicadores.',
-    link: 'https://www.canva.com/graphs/concept-maps/'
+    link: 'https://www.canva.com/create/concept-maps/'
   },
   {
     id: 'mapas-mentales',
@@ -185,7 +185,7 @@ const tools = [
     scientificUse: 'Facilita la creación de materiales visuales para comunicar resultados de investigación: pósters académicos, infografías de datos, presentaciones de congresos y figuras para publicaciones.',
     virtualAdvantages: 'Permite la edición colaborativa en tiempo real, con biblioteca de recursos gráficos y elementos de marca. Los diseños se almacenan en la nube y se comparten por enlace.',
     practicalExample: 'El equipo de investigación diseña un póster académico sobre los resultados de su estudio usando una plantilla de Canva, personalizando colores institucionales y añadiendo gráficos de datos.',
-    link: 'https://www.canva.com/presentations/'
+    link: 'https://www.canva.com/create/presentations/'
   },
   {
     id: 'powerpoint',

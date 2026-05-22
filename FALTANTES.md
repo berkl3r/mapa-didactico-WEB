@@ -8,11 +8,11 @@ A continuación se detalla la lista de categorías y herramientas con sus enlace
 
 ### 1. Técnicas de Problematización
 * **Cola de pescado**: [Abrir recurso ↗](https://miro.com/diagramming/what-is-a-fishbone-diagram/)
-* **Árbol de problemas**: [Abrir recurso ↗](https://miro.com/diagramming/problem-tree-analysis/)
-* **Línea de tiempo**: [Abrir recurso ↗](https://www.canva.com/graphs/timeline/)
+* **Árbol de problemas**: [Abrir recurso ↗](https://miro.com/templates/problem-tree/)
+* **Línea de tiempo**: [Abrir recurso ↗](https://www.canva.com/create/timeline-maker/)
 
 ### 2. Organización Conceptual
-* **Mapas conceptuales**: [Abrir recurso ↗](https://www.canva.com/graphs/concept-maps/)
+* **Mapas conceptuales**: [Abrir recurso ↗](https://www.canva.com/create/concept-maps/)
 * **Mapas mentales**: [Abrir recurso ↗](https://www.mindmeister.com/)
 * **Referencia clave (Novak y Cañas)**: [Abrir recurso ↗](https://cmap.ihmc.us/docs/theory-of-concept-maps)
 
@@ -28,7 +28,7 @@ A continuación se detalla la lista de categorías y herramientas con sus enlace
 * **Videos**: [Abrir recurso ↗](https://www.youtube.com/)
 * **Prezi**: [Abrir recurso ↗](https://prezi.com/)
 * **Genially**: [Abrir recurso ↗](https://genially.com/es/)
-* **Canva**: [Abrir recurso ↗](https://www.canva.com/presentations/)
+* **Canva**: [Abrir recurso ↗](https://www.canva.com/create/presentations/)
 * **PowerPoint interactivo**: [Abrir recurso ↗](https://support.microsoft.com/powerpoint)
 
 ### 6. Comunicación Sincrónica y Académica
@@ -75,7 +75,7 @@ Al contrastar la base de datos actual en `assets/js/main.js` con las 11 categor�
 1. **Separación de Mapas Conceptuales y Mentales**:
    * *Estado actual:* Están agrupados en una sola tarjeta (`mapas-conceptuales` con el nombre `"Mapas Conceptuales / Mentales"`).
    * *Acción:* Deben separarse en dos herramientas independientes en la base de datos de `main.js`:
-     * **Mapas Conceptuales** (Enlace: `https://www.canva.com/graphs/concept-maps/`)
+     * **Mapas Conceptuales** (Enlace: `https://www.canva.com/create/concept-maps/`)
      * **Mapas Mentales** (Enlace: `https://www.mindmeister.com/`)
 2. **Referencia Clave (Novak y Cañas)**:
    * *Estado actual:* Falta por completo en la sección de "Organización Conceptual".
@@ -91,13 +91,13 @@ Al contrastar la base de datos actual en `assets/js/main.js` con las 11 categor�
 ### C. Enlaces Desactualizados o Incorrectos
 Se detectaron los siguientes enlaces obsoletos o genéricos en `main.js` que difieren del catálogo del PPTX:
 * **Cola de pescado**: cambiar `https://www.canva.com/es_mx/graficos/diagrama-de-ishikawa/` por `https://miro.com/diagramming/what-is-a-fishbone-diagram/`
-* **Árbol de problemas**: cambiar `https://miro.com/es/diagrama-de-arbol/` por `https://miro.com/diagramming/problem-tree-analysis/`
-* **Línea de tiempo**: cambiar `https://www.canva.com/es_mx/crear/lineas-de-tiempo/` por `https://www.canva.com/graphs/timeline/`
+* **Árbol de problemas**: cambiar `https://miro.com/es/diagrama-de-arbol/` por `https://miro.com/templates/problem-tree/`
+* **Línea de tiempo**: cambiar `https://www.canva.com/es_mx/crear/lineas-de-tiempo/` por `https://www.canva.com/create/timeline-maker/`
 * **Foros virtuales**: cambiar `https://moodle.org/` por `https://docs.moodle.org/en/Forum_activity`
 * **Paneles de discusión**: cambiar `https://support.google.com/meet/` por `https://support.zoom.com/hc`
 * **Debates guiados**: cambiar `https://www.mentimeter.com/` por `https://www.canva.com/education/`
 * **Genially**: cambiar `https://genially.com/` por `https://genially.com/es/`
-* **Canva**: cambiar `https://www.canva.com/` por `https://www.canva.com/presentations/`
+* **Canva**: cambiar `https://www.canva.com/` por `https://www.canva.com/create/presentations/`
 * **PowerPoint interactivo**: cambiar `https://www.microsoft.com/powerpoint` por `https://support.microsoft.com/powerpoint`
 * **WhatsApp académico**: cambiar `https://web.whatsapp.com/` por `https://www.whatsapp.com/`
 * **Jamboard**: cambiar `https://jamboard.google.com/` por `https://support.google.com/jamboard?hl=es` (añadiendo nota de servicio cerrado por Google).
