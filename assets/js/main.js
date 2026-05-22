@@ -525,11 +525,22 @@ function renderSection(sectionId) {
 
   let subcategoriesHTML = '';
   if (categoryTools.length === 0) {
+    const otherMatches = findMatchesInOtherTabs(searchQuery, sectionId);
+    let suggestionHTML = '';
+    if (otherMatches.length) {
+      suggestionHTML = `
+        <p style="font-size: 0.95rem; margin-top: 0.5rem;">
+          Resultados en:
+          ${otherMatches.map(m => `<a href="#" onclick="switchTab('${m.tab}'); scrollToNav(); return false;" style="color:var(--primary);font-weight:600;text-decoration:underline;">${m.label} (${m.count})</a>`).join(' · ')}
+        </p>
+      `;
+    }
     subcategoriesHTML = `
-      <div class="no-results" style="grid-column: 1/-1; text-align: center; padding: 3rem 1rem; color: var(--text-light);">
+      <div class="no-results" style="grid-column: 1/-1; text-align: center; padding: 3rem 1rem; color: var(--text-muted);">
         <div style="font-size: 3rem; margin-bottom: 1rem;">🔍</div>
-        <p style="font-size: 1.1rem; font-weight: 500;">No se encontraron resultados para "${searchQuery}"</p>
-        <p style="font-size: 0.9rem; opacity: 0.7; margin-top: 0.5rem;">Intenta con otros términos o cambia de categoría.</p>
+        <p style="font-size: 1.1rem; font-weight: 500;">No se encontraron resultados para "${searchQuery}" en ${subcategoryMeta[sectionId].title}</p>
+        ${suggestionHTML}
+        <p style="font-size: 0.9rem; opacity: 0.7; margin-top: 0.5rem;">Consejo: el buscador no diferencia mayúsculas y acepta palabras parciales (ej. "zot" encuentra "Zotero")</p>
       </div>
     `;
   } else {
@@ -626,7 +637,7 @@ function renderJustification() {
         </tr>
       </tbody>
     </table>
-    <p style="margin-top:1.5rem;font-style:italic;color:var(--text-light);">
+    <p style="margin-top:1.5rem;font-style:italic;color:var(--text-muted);">
       "La IA (ChatGPT) sirve para procesar ideas y código, mientras que los gestores (Zotero/Mendeley)
       dan el soporte científico y la validez académica que un proyecto necesita para no caer en el plagio o la desinformación."
     </p>
@@ -696,6 +707,31 @@ function switchTab(tabId) {
 }
 
 let searchQuery = '';
+let lastSearchSuggestion = '';
+
+function scrollToNav() {
+  const nav = document.getElementById('main-nav');
+  if (nav) nav.scrollIntoView({ behavior: 'smooth' });
+}
+
+function findMatchesInOtherTabs(query, currentTab) {
+  const q = query.trim().toLowerCase();
+  if (!q) return [];
+  const results = [];
+  const tabNames = { tecnicas: 'Técnicas', comunicacion: 'Comunicación', cocreacion: 'Co-creación', evaluacion: 'Evaluación' };
+  for (const tab of Object.keys(tabNames)) {
+    if (tab === currentTab) continue;
+    const matches = tools.filter(t => t.category === tab && (
+      t.name.toLowerCase().includes(q) ||
+      t.description.toLowerCase().includes(q) ||
+      (t.fullDescription && t.fullDescription.toLowerCase().includes(q))
+    ));
+    if (matches.length) {
+      results.push({ tab, label: tabNames[tab], count: matches.length });
+    }
+  }
+  return results;
+}
 
 function handleSearch(event) {
   searchQuery = event.target.value;
