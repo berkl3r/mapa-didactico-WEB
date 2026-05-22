@@ -3,27 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Catálogo Interactivo - Técnicas y Medios Didácticos</title>
+  <meta name="description" content="Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica en entornos virtuales.">
+  <meta name="keywords" content="técnicas didácticas, medios didácticos, investigación científica, e-learning, educación virtual, Zotero, Mendeley, ChatGPT">
+  <meta name="author" content="Khunji Marilyn Alarcón Jiménez, Segundo Malca Hernández, Patricia Haydee Mere">
+  <title>Catálogo Didáctico - Técnicas y Medios para la Enseñanza Científica</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
   <header class="cover" id="inicio">
     <div class="cover-content">
-      <h1>Catálogo Interactivo de <span>Técnicas y Medios Didácticos</span></h1>
+      <h1>Catálogo Interactivo de <br><span>Técnicas y Medios Didácticos</span></h1>
       <p class="subtitle">Para la enseñanza de la investigación científica en entornos virtuales</p>
       <div class="team">
-        <span>👤 Integrante 1</span>
-        <span>👤 Integrante 2</span>
-        <span>👤 Integrante 3</span>
-        <span>👤 Integrante 4</span>
-        <span>👤 Integrante 5</span>
+        <span>👤 Khunji Marilyn Alarcón Jiménez</span>
+        <span>👤 Segundo Malca Hernández</span>
+        <span>👤 Patricia Haydee Mere</span>
       </div>
       <a href="#" class="btn-start" onclick="switchTab('tecnicas'); return false;">Explorar Catálogo ▼</a>
     </div>
   </header>
 
-  <nav>
+  <nav id="main-nav">
     <ul>
       <li><a href="#" data-tab="tecnicas" class="active">📘 Técnicas Didácticas</a></li>
       <li><a href="#" data-tab="comunicacion">📺 Comunicación y Exposición</a></li>
@@ -34,6 +38,13 @@
   </nav>
 
   <main>
+    <div id="search-container" class="search-container">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="Buscar técnica o herramienta... (ej. Zotero, Ishikawa, Miro, etc.)" aria-label="Buscar herramienta didáctica">
+      </div>
+    </div>
+
     <section id="tecnicas" class="section"></section>
     <section id="comunicacion" class="section"></section>
     <section id="cocreacion" class="section"></section>
@@ -46,7 +57,7 @@
 
   <div class="modal-overlay" id="modal-overlay">
     <div class="modal">
-      <button class="close" onclick="closeModal()">✕</button>
+      <button class="close" onclick="closeModal()" aria-label="Cerrar modal">✕</button>
       <h2 id="modal-title"></h2>
       <div id="modal-fields"></div>
     </div>
@@ -54,7 +65,8 @@
 
   <footer>
     <p>Catálogo Interactivo de Técnicas y Medios Didácticos — <a href="#inicio">Volver al inicio</a></p>
-    <p style="margin-top:0.5rem;font-size:0.8rem;">Examen Parcial · Todos los integrantes participaron</p>
+    <p style="margin-top:0.75rem;font-size:0.9rem;opacity:0.9;">Elaborado por: Khunji Marilyn Alarcón Jiménez · Segundo Malca Hernández · Patricia Haydee Mere</p>
+    <p style="margin-top:0.25rem;font-size:0.8rem;opacity:0.6;">Examen Parcial · Todos los integrantes participaron activamente</p>
   </footer>
 
   <script src="assets/js/main.js"></script>

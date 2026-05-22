@@ -78,7 +78,7 @@ const tools = [
     description: 'Espacios de discusión asíncrona donde se debate sobre temas académicos.',
     fullDescription: 'Plataformas de comunicación donde los participantes publican mensajes, responden intervenciones y construyen conocimiento de forma colaborativa, moderados por un facilitador que guía la discusión.',
     scientificUse: 'Fomentan el pensamiento crítico y la argumentación fundamentada. Permiten discutir hallazgos, contrastar perspectivas y construir consensos en comunidades académicas distribuidas.',
-    virtualApproach: 'Al no requerir coincidencia horaria, facilitan la participación reflexiva de todos los miembros del equipo, documentando el proceso de discusión para referencia futura.',
+    virtualAdvantages: 'Al no requerir coincidencia horaria, facilitan la participación reflexiva de todos los miembros del equipo, documentando el proceso de discusión para referencia futura.',
     practicalExample: 'En un curso de metodología, se abre un foro sobre "Validez y confiabilidad en investigación cualitativa" donde cada estudiante aporta un artículo de referencia y los demás comentan su pertinencia.',
     link: 'https://moodle.org/'
   },
@@ -91,7 +91,7 @@ const tools = [
     description: 'Grupo de expertos que debaten un tema frente a una audiencia moderada.',
     fullDescription: 'Técnica donde varios especialistas exponen diferentes perspectivas sobre un mismo tema, seguido de preguntas de la audiencia. Favorece el análisis multidimensional de problemas complejos.',
     scientificUse: 'Permite contrastar enfoques metodológicos y teóricos. Es útil en seminarios de investigación para recibir retroalimentación de múltiples expertos sobre un proyecto.',
-    virtualApproach: 'Las plataformas de videoconferencia permiten reunir expertos de diferentes instituciones y países, grabando la sesión para su difusión asíncrona.',
+    virtualAdvantages: 'Las plataformas de videoconferencia permiten reunir expertos de diferentes instituciones y países, grabando la sesión para su difusión asíncrona.',
     practicalExample: 'En un seminario de tesis, tres docentes con diferentes enfoques (cuantitativo, cualitativo y mixto) discuten la metodología más adecuada para un proyecto específico.',
     link: 'https://support.google.com/meet/'
   },
@@ -104,7 +104,7 @@ const tools = [
     description: 'Discusión estructurada donde equipos defienden posturas opuestas sobre un tema.',
     fullDescription: 'Técnica de comunicación académica donde dos o más grupos argumentan posiciones contrastantes sobre un tema, siguiendo reglas de participación y tiempos definidos, moderados por un facilitador.',
     scientificUse: 'Desarrolla habilidades de argumentación, pensamiento crítico y síntesis. Ayuda a examinar todas las aristas de un problema de investigación antes de tomar una postura.',
-    virtualApproach: 'Se pueden realizar debates sincrónicos por videoconferencia o asíncronos en foros, permitiendo a los participantes preparar mejor sus argumentos.',
+    virtualAdvantages: 'Se pueden realizar debates sincrónicos por videoconferencia o asíncronos en foros, permitiendo a los participantes preparar mejor sus argumentos.',
     practicalExample: 'Se organiza un debate sobre "¿Es ético usar IA para generar contenido académico?" donde un equipo defiende su uso como herramienta de apoyo y otro argumenta los riesgos de dependencia tecnológica.',
     link: 'https://www.mentimeter.com/'
   },
@@ -131,7 +131,7 @@ const tools = [
     description: 'Herramienta de presentaciones con zoom y navegación no lineal e interactiva.',
     fullDescription: 'Plataforma de presentaciones basada en un lienzo zoomable que permite crear narrativas visuales no lineales, donde los elementos se conectan mediante transiciones dinámicas en un espacio tridimensional.',
     scientificUse: 'Ideal para presentar proyectos de investigación que requieren mostrar relaciones jerárquicas entre conceptos, permitiendo al público visualizar el panorama general y acercarse a detalles específicos.',
-    virtualApproach: ': Su formato interactivo mantiene la atención de la audiencia remota. Las presentaciones se comparten mediante enlace sin necesidad de descargar archivos pesados.',
+    virtualAdvantages: 'Su formato interactivo mantiene la atención de la audiencia remota. Las presentaciones se comparten mediante enlace sin necesidad de descargar archivos pesados.',
     practicalExample: 'Al presentar un proyecto de investigación, se muestra primero el mapa general del estudio y se hace zoom a cada fase: problema, marco teórico, metodología, resultados y conclusiones.',
     link: 'https://prezi.com/'
   },
@@ -170,7 +170,7 @@ const tools = [
     description: 'Presentaciones con botones de acción y navegación no lineal.',
     fullDescription: 'Software de presentaciones que permite crear diapositivas con hipervínculos, botones de acción, menús interactivos y elementos multimedia, transformando presentaciones lineales en experiencias navegables.',
     scientificUse: 'Útil para crear catálogos interactivos, menús de navegación para defensas de tesis y presentaciones modulares donde el usuario elige qué contenido explorar.',
-    virtualApproach: 'Se puede exportar a PDF interactivo o video, o compartirse online mediante OneDrive. Los botones de acción permiten simular una navegación tipo web dentro de la presentación.',
+    virtualAdvantages: 'Se puede exportar a PDF interactivo o video, o compartirse online mediante OneDrive. Los botones de acción permiten simular una navegación tipo web dentro de la presentación.',
     practicalExample: 'Se diseña un catálogo de herramientas didácticas donde la diapositiva principal funciona como menú con botones que llevan a secciones específicas: técnicas, medios, evaluación y recursos.',
     link: 'https://www.microsoft.com/powerpoint'
   },
@@ -511,11 +511,30 @@ function renderSection(sectionId) {
   const meta = subcategoryMeta[sectionId];
   if (!meta) return;
 
-  section.innerHTML = `
-    <h2 class="section-title">${meta.title}</h2>
-    <p class="section-desc">${meta.description}</p>
-    ${Object.entries(meta.subs).map(([key, sub]) => {
-      const items = tools.filter(t => t.category === sectionId && t.subcategory === key);
+  const query = searchQuery.trim().toLowerCase();
+
+  // Filtrar herramientas según búsqueda
+  const categoryTools = tools.filter(t => t.category === sectionId && 
+    (!query || 
+     t.name.toLowerCase().includes(query) || 
+     t.description.toLowerCase().includes(query) || 
+     (t.fullDescription && t.fullDescription.toLowerCase().includes(query)) ||
+     (t.scientificUse && t.scientificUse.toLowerCase().includes(query))
+    )
+  );
+
+  let subcategoriesHTML = '';
+  if (categoryTools.length === 0) {
+    subcategoriesHTML = `
+      <div class="no-results" style="grid-column: 1/-1; text-align: center; padding: 3rem 1rem; color: var(--text-light);">
+        <div style="font-size: 3rem; margin-bottom: 1rem;">🔍</div>
+        <p style="font-size: 1.1rem; font-weight: 500;">No se encontraron resultados para "${searchQuery}"</p>
+        <p style="font-size: 0.9rem; opacity: 0.7; margin-top: 0.5rem;">Intenta con otros términos o cambia de categoría.</p>
+      </div>
+    `;
+  } else {
+    subcategoriesHTML = Object.entries(meta.subs).map(([key, sub]) => {
+      const items = categoryTools.filter(t => t.subcategory === key);
       if (!items.length) return '';
       return `
         <div class="subcategory">
@@ -527,13 +546,19 @@ function renderSection(sectionId) {
                 <div class="card-icon">${t.icon}</div>
                 <h3>${t.name}</h3>
                 <p>${t.description}</p>
-                <button class="btn-more">Ver más</button>
+                <button class="btn-more" id="btn-more-${t.id}">Ver más</button>
               </div>
             `).join('')}
           </div>
         </div>
       `;
-    }).join('')}
+    }).join('');
+  }
+
+  section.innerHTML = `
+    <h2 class="section-title">${meta.title}</h2>
+    <p class="section-desc">${meta.description}</p>
+    ${subcategoriesHTML}
   `;
 }
 
@@ -654,6 +679,33 @@ function switchTab(tabId) {
 
   const link = document.querySelector(`nav a[data-tab="${tabId}"]`);
   if (link) link.classList.add('active');
+
+  const searchContainer = document.getElementById('search-container');
+  if (searchContainer) {
+    if (tabId === 'justificacion') {
+      searchContainer.style.display = 'none';
+    } else {
+      searchContainer.style.display = 'block';
+    }
+  }
+
+  // Volver a renderizar la sección activa con el filtro actual
+  if (['tecnicas', 'comunicacion', 'cocreacion', 'evaluacion'].includes(tabId)) {
+    renderSection(tabId);
+  }
+}
+
+let searchQuery = '';
+
+function handleSearch(event) {
+  searchQuery = event.target.value;
+  const activeLink = document.querySelector('nav a.active');
+  if (activeLink) {
+    const activeTab = activeLink.dataset.tab;
+    if (['tecnicas', 'comunicacion', 'cocreacion', 'evaluacion'].includes(activeTab)) {
+      renderSection(activeTab);
+    }
+  }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -665,6 +717,11 @@ document.addEventListener('DOMContentLoaded', () => {
       switchTab(a.dataset.tab);
     });
   });
+
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) {
+    searchInput.addEventListener('input', handleSearch);
+  }
 
   document.getElementById('modal-overlay').addEventListener('click', e => {
     if (e.target === e.currentTarget) closeModal();
