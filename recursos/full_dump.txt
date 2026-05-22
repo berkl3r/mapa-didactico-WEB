@@ -1,0 +1,1876 @@
+=== FULL DUMP OF PPTX: 15 slides ===
+
+
+================ SLIDE 1 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual'
+      - Run 0 'UCV Virtual'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Examen Parcial'
+      - Run 0 'Examen Parcial'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'INVESTIGALAB'
+      - Run 0 'INVESTIGALAB'
+    * Paragraph 1: 'VIRTUAL'
+      - Run 0 'VIRTUAL'
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+  [Shape] Name: TextBox 17, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 18
+  [Shape] Name: Freeform 19, Type: FREEFORM (5)
+  [Shape] Name: TextBox 20, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Integrantes'
+      - Run 0 'Integrantes'
+[Group] Name: Group 21
+  [Shape] Name: Freeform 22, Type: FREEFORM (5)
+[Group] Name: Group 23
+  [Shape] Name: Freeform 24, Type: FREEFORM (5)
+  [Shape] Name: TextBox 25, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Khunji Marilyn Alarcón Jiménez'
+      - Run 0 'Khunji Marilyn Alarcón Jiménez'
+[Group] Name: Group 26
+  [Shape] Name: Freeform 27, Type: FREEFORM (5)
+[Group] Name: Group 28
+  [Shape] Name: Freeform 29, Type: FREEFORM (5)
+  [Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Segundo Alindor Malca Hernández'
+      - Run 0 'Segundo Alindor Malca Hernández'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+[Group] Name: Group 33
+  [Shape] Name: Freeform 34, Type: FREEFORM (5)
+  [Shape] Name: TextBox 35, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Patricia Haydee Mere'
+      - Run 0 'Patricia Haydee Mere'
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Link del catálogo en Canva/Genially: colocar aquí después de subir el PPTX'
+      - Run 0 'Link del catálogo en Canva/Genially: colocar aquí después de subir el PPTX'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Haz clic en “Menú” para navegar por las categorías'
+      - Run 0 'Haz clic en “Menú” para navegar por las categorías'
+[Group] Name: Group 44
+  [Shape] Name: Freeform 45, Type: FREEFORM (5)
+  [Shape] Name: TextBox 46, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Menú →'
+      - Run 0 'Menú →' -> LINK: slide2.xml
+
+================ SLIDE 2 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Navegación principal'
+      - Run 0 'Navegación principal'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Menú interactivo del catálogo'
+      - Run 0 'Menú interactivo del catálogo'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '2/15'
+      - Run 0 '2/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+  [Shape] Name: TextBox 22, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Selecciona una categoría para ingresar a las fichas. Cada ficha incluye descripción, aplicación, ventaja virtual, ejemplo y enlace.'
+      - Run 0 'Selecciona una categoría para ingresar a las fichas. Cada ficha incluye descripción, aplicación, ventaja virtual, ejemplo y enlace.'
+[Group] Name: Group 23
+  [Shape] Name: Freeform 24, Type: FREEFORM (5)
+[Group] Name: Group 25
+  [Shape] Name: Freeform 26, Type: FREEFORM (5)
+  [Shape] Name: TextBox 27, Type: TEXT_BOX (17)
+    * Paragraph 0: '🔎'
+      - Run 0 '🔎'
+[Group] Name: Group 28
+  [Shape] Name: Freeform 29, Type: FREEFORM (5)
+  [Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+    * Paragraph 0: '1. Técnicas de problematización'
+      - Run 0 '1. Técnicas de problematización' -> LINK: slide3.xml
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'CLIC PARA ABRIR'
+      - Run 0 'CLIC PARA ABRIR' -> LINK: slide3.xml
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+  [Shape] Name: TextBox 38, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧠'
+      - Run 0 '🧠'
+[Group] Name: Group 39
+  [Shape] Name: Freeform 40, Type: FREEFORM (5)
+  [Shape] Name: TextBox 41, Type: TEXT_BOX (17)
+    * Paragraph 0: '2. Organización conceptual'
+      - Run 0 '2. Organización conceptual' -> LINK: slide4.xml
+[Group] Name: Group 42
+  [Shape] Name: Freeform 43, Type: FREEFORM (5)
+  [Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide4.xml
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+[Group] Name: Group 47
+  [Shape] Name: Freeform 48, Type: FREEFORM (5)
+  [Shape] Name: TextBox 49, Type: TEXT_BOX (17)
+    * Paragraph 0: '📚'
+      - Run 0 '📚'
+[Group] Name: Group 50
+  [Shape] Name: Freeform 51, Type: FREEFORM (5)
+  [Shape] Name: TextBox 52, Type: TEXT_BOX (17)
+    * Paragraph 0: '3. Revisión de fuentes'
+      - Run 0 '3. Revisión de fuentes' -> LINK: slide5.xml
+[Group] Name: Group 53
+  [Shape] Name: Freeform 54, Type: FREEFORM (5)
+  [Shape] Name: TextBox 55, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide5.xml
+[Group] Name: Group 56
+  [Shape] Name: Freeform 57, Type: FREEFORM (5)
+[Group] Name: Group 58
+  [Shape] Name: Freeform 59, Type: FREEFORM (5)
+  [Shape] Name: TextBox 60, Type: TEXT_BOX (17)
+    * Paragraph 0: '💬'
+      - Run 0 '💬'
+[Group] Name: Group 61
+  [Shape] Name: Freeform 62, Type: FREEFORM (5)
+  [Shape] Name: TextBox 63, Type: TEXT_BOX (17)
+    * Paragraph 0: '4. Comunicación académica'
+      - Run 0 '4. Comunicación académica' -> LINK: slide6.xml
+[Group] Name: Group 64
+  [Shape] Name: Freeform 65, Type: FREEFORM (5)
+  [Shape] Name: TextBox 66, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide6.xml
+[Group] Name: Group 67
+  [Shape] Name: Freeform 68, Type: FREEFORM (5)
+[Group] Name: Group 69
+  [Shape] Name: Freeform 70, Type: FREEFORM (5)
+  [Shape] Name: TextBox 71, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎬'
+      - Run 0 '🎬'
+[Group] Name: Group 72
+  [Shape] Name: Freeform 73, Type: FREEFORM (5)
+  [Shape] Name: TextBox 74, Type: TEXT_BOX (17)
+    * Paragraph 0: '5. Comunicación y exposición'
+      - Run 0 '5. Comunicación y exposición' -> LINK: slide7.xml
+[Group] Name: Group 75
+  [Shape] Name: Freeform 76, Type: FREEFORM (5)
+  [Shape] Name: TextBox 77, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide7.xml
+[Group] Name: Group 78
+  [Shape] Name: Freeform 79, Type: FREEFORM (5)
+[Group] Name: Group 80
+  [Shape] Name: Freeform 81, Type: FREEFORM (5)
+  [Shape] Name: TextBox 82, Type: TEXT_BOX (17)
+    * Paragraph 0: '🤝'
+      - Run 0 '🤝'
+[Group] Name: Group 83
+  [Shape] Name: Freeform 84, Type: FREEFORM (5)
+  [Shape] Name: TextBox 85, Type: TEXT_BOX (17)
+    * Paragraph 0: '6. Co-creación y organización'
+      - Run 0 '6. Co-creación y organización' -> LINK: slide9.xml
+[Group] Name: Group 86
+  [Shape] Name: Freeform 87, Type: FREEFORM (5)
+  [Shape] Name: TextBox 88, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide9.xml
+[Group] Name: Group 89
+  [Shape] Name: Freeform 90, Type: FREEFORM (5)
+[Group] Name: Group 91
+  [Shape] Name: Freeform 92, Type: FREEFORM (5)
+  [Shape] Name: TextBox 93, Type: TEXT_BOX (17)
+    * Paragraph 0: '✅'
+      - Run 0 '✅'
+[Group] Name: Group 94
+  [Shape] Name: Freeform 95, Type: FREEFORM (5)
+  [Shape] Name: TextBox 96, Type: TEXT_BOX (17)
+    * Paragraph 0: '7. Evaluación y gestión'
+      - Run 0 '7. Evaluación y gestión' -> LINK: slide11.xml
+[Group] Name: Group 97
+  [Shape] Name: Freeform 98, Type: FREEFORM (5)
+  [Shape] Name: TextBox 99, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide11.xml
+[Group] Name: Group 100
+  [Shape] Name: Freeform 101, Type: FREEFORM (5)
+[Group] Name: Group 102
+  [Shape] Name: Freeform 103, Type: FREEFORM (5)
+  [Shape] Name: TextBox 104, Type: TEXT_BOX (17)
+    * Paragraph 0: '🤖'
+      - Run 0 '🤖'
+[Group] Name: Group 105
+  [Shape] Name: Freeform 106, Type: FREEFORM (5)
+  [Shape] Name: TextBox 107, Type: TEXT_BOX (17)
+    * Paragraph 0: '8. Investigación digital'
+      - Run 0 '8. Investigación digital' -> LINK: slide13.xml
+[Group] Name: Group 108
+  [Shape] Name: Freeform 109, Type: FREEFORM (5)
+  [Shape] Name: TextBox 110, Type: TEXT_BOX (17)
+    * Paragraph 0: 'clic para abrir'
+      - Run 0 'clic para abrir' -> LINK: slide13.xml
+[Group] Name: Group 111
+  [Shape] Name: Freeform 112, Type: FREEFORM (5)
+[Group] Name: Group 113
+  [Shape] Name: Freeform 114, Type: FREEFORM (5)
+  [Shape] Name: TextBox 115, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Ruta sugerida: Problematización → Organización conceptual → Revisión de fuentes → Comunicación académica → Medios digitales → Justificación e-learning.'
+      - Run 0 'Ruta sugerida: Problematización → Organización conceptual → Revisión de fuentes → Comunicación académica → Medios digitales → Justificación e-learning.'
+[Group] Name: Group 116
+  [Shape] Name: Freeform 117, Type: FREEFORM (5)
+  [Shape] Name: TextBox 118, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 119
+  [Shape] Name: Freeform 120, Type: FREEFORM (5)
+  [Shape] Name: TextBox 121, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 3 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas didácticas'
+      - Run 0 'Técnicas didácticas'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas didácticas: problematización'
+      - Run 0 'Técnicas didácticas: problematización'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '3/15'
+      - Run 0 '3/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '🐟'
+      - Run 0 '🐟'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Cola de pescado'
+      - Run 0 'Cola de pescado'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: identificar causas de un problema central.'
+    - Run 0 'Sirve: '
+    - Run 1 'identificar causas de un problema central.'
+  * Paragraph 1: 'Investigación: ordena variables, causas y efectos.'
+    - Run 0 'Investigación: '
+    - Run 1 'ordena variables, causas y efectos.'
+  * Paragraph 2: 'Virtual: se trabaja en grupos con Miro o Lucidchart.'
+    - Run 0 'Virtual: '
+    - Run 1 'se trabaja en grupos con Miro o Lucidchart.'
+  * Paragraph 3: 'Ejemplo: causas de baja participación en un curso virtual.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'causas de baja participación en un curso virtual.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://miro.com/diagramming/what-is-a-fishbone-diagram/
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: '🌳'
+      - Run 0 '🌳'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Árbol de problemas'
+      - Run 0 'Árbol de problemas'
+[Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: separar problema, causas y consecuencias.'
+    - Run 0 'Sirve: '
+    - Run 1 'separar problema, causas y consecuencias.'
+  * Paragraph 1: 'Investigación: delimita el problema de investigación.'
+    - Run 0 'Investigación: '
+    - Run 1 'delimita el problema de investigación.'
+  * Paragraph 2: 'Virtual: facilita construcción colaborativa sincrónica.'
+    - Run 0 'Virtual: '
+    - Run 1 'facilita construcción colaborativa sincrónica.'
+  * Paragraph 3: 'Ejemplo: deserción en aulas virtuales por conectividad y acompañamiento.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'deserción en aulas virtuales por conectividad y acompañamiento.'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://miro.com/diagramming/problem-tree-analysis/
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+[Group] Name: Group 50
+  [Shape] Name: Freeform 51, Type: FREEFORM (5)
+[Group] Name: Group 52
+  [Shape] Name: Freeform 53, Type: FREEFORM (5)
+  [Shape] Name: TextBox 54, Type: TEXT_BOX (17)
+    * Paragraph 0: '⏱️'
+      - Run 0 '⏱️'
+[Group] Name: Group 55
+  [Shape] Name: Freeform 56, Type: FREEFORM (5)
+  [Shape] Name: TextBox 57, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Línea de tiempo'
+      - Run 0 'Línea de tiempo'
+[Shape] Name: TextBox 58, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: ordenar hechos, antecedentes o etapas.'
+    - Run 0 'Sirve: '
+    - Run 1 'ordenar hechos, antecedentes o etapas.'
+  * Paragraph 1: 'Investigación: ubica evolución del tema y vacíos de estudio.'
+    - Run 0 'Investigación: '
+    - Run 1 'ubica evolución del tema y vacíos de estudio.'
+  * Paragraph 2: 'Virtual: sirve para presentar avances y cronogramas.'
+    - Run 0 'Virtual: '
+    - Run 1 'sirve para presentar avances y cronogramas.'
+  * Paragraph 3: 'Ejemplo: historia de la educación virtual 2020-2026.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'historia de la educación virtual 2020-2026.'
+[Group] Name: Group 59
+  [Shape] Name: Freeform 60, Type: FREEFORM (5)
+  [Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.canva.com/graphs/timeline/
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 4 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas didácticas'
+      - Run 0 'Técnicas didácticas'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas: organización conceptual'
+      - Run 0 'Técnicas: organización conceptual'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '4/15'
+      - Run 0 '4/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧩'
+      - Run 0 '🧩'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Mapas conceptuales'
+      - Run 0 'Mapas conceptuales'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: representan conceptos y relaciones jerárquicas.'
+    - Run 0 'Sirve: '
+    - Run 1 'representan conceptos y relaciones jerárquicas.'
+  * Paragraph 1: 'Investigación: ayudan a construir marco teórico y categorías.'
+    - Run 0 'Investigación: '
+    - Run 1 'ayudan a construir marco teórico y categorías.'
+  * Paragraph 2: 'Virtual: permiten comentarios y edición compartida.'
+    - Run 0 'Virtual: '
+    - Run 1 'permiten comentarios y edición compartida.'
+  * Paragraph 3: 'Ejemplo: variables de “competencia investigativa” conectadas con indicadores.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'variables de “competencia investigativa” conectadas con indicadores.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.canva.com/graphs/concept-maps/
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧠'
+      - Run 0 '🧠'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Mapas mentales'
+      - Run 0 'Mapas mentales'
+[Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: organizan ideas desde un núcleo central.'
+    - Run 0 'Sirve: '
+    - Run 1 'organizan ideas desde un núcleo central.'
+  * Paragraph 1: 'Investigación: apoyan lluvia de ideas y revisión inicial del tema.'
+    - Run 0 'Investigación: '
+    - Run 1 'apoyan lluvia de ideas y revisión inicial del tema.'
+  * Paragraph 2: 'Virtual: se comparten como imagen o enlace editable.'
+    - Run 0 'Virtual: '
+    - Run 1 'se comparten como imagen o enlace editable.'
+  * Paragraph 3: 'Ejemplo: subtemas sobre enseñanza e-learning para investigación.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'subtemas sobre enseñanza e-learning para investigación.'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.mindmeister.com/
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+[Group] Name: Group 50
+  [Shape] Name: Freeform 51, Type: FREEFORM (5)
+[Group] Name: Group 52
+  [Shape] Name: Freeform 53, Type: FREEFORM (5)
+  [Shape] Name: TextBox 54, Type: TEXT_BOX (17)
+    * Paragraph 0: '📌'
+      - Run 0 '📌'
+[Group] Name: Group 55
+  [Shape] Name: Freeform 56, Type: FREEFORM (5)
+  [Shape] Name: TextBox 57, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Referencia clave'
+      - Run 0 'Referencia clave'
+[Shape] Name: TextBox 58, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: Novak y Cañas plantean el mapa conceptual como organizador de conocimiento.'
+    - Run 0 'Sirve: '
+    - Run 1 'Novak y Cañas plantean el mapa conceptual como organizador de conocimiento.'
+  * Paragraph 1: 'Investigación: fortalece aprendizaje significativo y síntesis.'
+    - Run 0 'Investigación: '
+    - Run 1 'fortalece aprendizaje significativo y síntesis.'
+  * Paragraph 2: 'Virtual: se integra en Genially, Canva o presentaciones.'
+    - Run 0 'Virtual: '
+    - Run 1 'se integra en Genially, Canva o presentaciones.'
+  * Paragraph 3: 'Ejemplo: mapa de pregunta, objetivos, variables y métodos.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'mapa de pregunta, objetivos, variables y métodos.'
+[Group] Name: Group 59
+  [Shape] Name: Freeform 60, Type: FREEFORM (5)
+  [Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://cmap.ihmc.us/docs/theory-of-concept-maps
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 5 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas didácticas'
+      - Run 0 'Técnicas didácticas'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnica: revisión de fuentes'
+      - Run 0 'Técnica: revisión de fuentes'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '5/15'
+      - Run 0 '5/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '📚'
+      - Run 0 '📚'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Barrida de textos'
+      - Run 0 'Barrida de textos'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: lectura rápida y estratégica para detectar ideas clave.'
+    - Run 0 'Sirve: '
+    - Run 1 'lectura rápida y estratégica para detectar ideas clave.'
+  * Paragraph 1: 'Investigación: selecciona antecedentes, teorías y metodologías pertinentes.'
+    - Run 0 'Investigación: '
+    - Run 1 'selecciona antecedentes, teorías y metodologías pertinentes.'
+  * Paragraph 2: 'Virtual: se apoya en fichas compartidas, Drive o Zotero.'
+    - Run 0 'Virtual: '
+    - Run 1 'se apoya en fichas compartidas, Drive o Zotero.'
+  * Paragraph 3: 'Ejemplo: buscar en 5 artículos: objetivo, muestra, método, hallazgo y limitación.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'buscar en 5 artículos: objetivo, muestra, método, hallazgo y limitación.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://scholar.google.com/
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+  [Shape] Name: TextBox 38, Type: TEXT_BOX (17)
+    * Paragraph 0: '🔍 1. Localizar'
+      - Run 0 '🔍 1. Localizar'
+[Shape] Name: TextBox 39, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Buscar artículos, libros y reportes confiables.'
+    - Run 0 'Buscar artículos, libros y reportes confiables.'
+[Group] Name: Group 40
+  [Shape] Name: Freeform 41, Type: FREEFORM (5)
+[Group] Name: Group 42
+  [Shape] Name: Freeform 43, Type: FREEFORM (5)
+  [Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧪 2. Filtrar'
+      - Run 0 '🧪 2. Filtrar'
+[Shape] Name: TextBox 45, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Revisar actualidad, pertinencia y calidad metodológica.'
+    - Run 0 'Revisar actualidad, pertinencia y calidad metodológica.'
+[Group] Name: Group 46
+  [Shape] Name: Freeform 47, Type: FREEFORM (5)
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+  [Shape] Name: TextBox 50, Type: TEXT_BOX (17)
+    * Paragraph 0: '📝 3. Extraer'
+      - Run 0 '📝 3. Extraer'
+[Shape] Name: TextBox 51, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Registrar objetivo, enfoque, resultados y citas.'
+    - Run 0 'Registrar objetivo, enfoque, resultados y citas.'
+[Group] Name: Group 52
+  [Shape] Name: Freeform 53, Type: FREEFORM (5)
+[Group] Name: Group 54
+  [Shape] Name: Freeform 55, Type: FREEFORM (5)
+  [Shape] Name: TextBox 56, Type: TEXT_BOX (17)
+    * Paragraph 0: '🔗 4. Sintetizar'
+      - Run 0 '🔗 4. Sintetizar'
+[Shape] Name: TextBox 57, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Comparar autores para construir argumentos.'
+    - Run 0 'Comparar autores para construir argumentos.'
+[Group] Name: Group 58
+  [Shape] Name: Freeform 59, Type: FREEFORM (5)
+  [Shape] Name: TextBox 60, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Producto final de la técnica: matriz de revisión o cuadro de antecedentes para sustentar el planteamiento del problema.'
+      - Run 0 'Producto final de la técnica: matriz de revisión o cuadro de antecedentes para sustentar el planteamiento del problema.'
+[Group] Name: Group 61
+  [Shape] Name: Freeform 62, Type: FREEFORM (5)
+  [Shape] Name: TextBox 63, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 64
+  [Shape] Name: Freeform 65, Type: FREEFORM (5)
+  [Shape] Name: TextBox 66, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 6 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas didácticas'
+      - Run 0 'Técnicas didácticas'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Técnicas: comunicación académica'
+      - Run 0 'Técnicas: comunicación académica'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '6/15'
+      - Run 0 '6/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '💬'
+      - Run 0 '💬'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Foros virtuales'
+      - Run 0 'Foros virtuales'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: discusión escrita asincrónica.'
+    - Run 0 'Sirve: '
+    - Run 1 'discusión escrita asincrónica.'
+  * Paragraph 1: 'Investigación: argumenta posturas con evidencia y citas.'
+    - Run 0 'Investigación: '
+    - Run 1 'argumenta posturas con evidencia y citas.'
+  * Paragraph 2: 'Virtual: permite participación reflexiva y retroalimentación.'
+    - Run 0 'Virtual: '
+    - Run 1 'permite participación reflexiva y retroalimentación.'
+  * Paragraph 3: 'Ejemplo: foro: ¿qué técnica mejora la formulación del problema?'
+    - Run 0 'Ejemplo: '
+    - Run 1 'foro: ¿qué técnica mejora la formulación del problema?'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://docs.moodle.org/en/Forum_activity
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎙️'
+      - Run 0 '🎙️'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Paneles'
+      - Run 0 'Paneles'
+[Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: presentación de posturas por especialistas o equipos.'
+    - Run 0 'Sirve: '
+    - Run 1 'presentación de posturas por especialistas o equipos.'
+  * Paragraph 1: 'Investigación: contrasta enfoques, hallazgos y criterios.'
+    - Run 0 'Investigación: '
+    - Run 1 'contrasta enfoques, hallazgos y criterios.'
+  * Paragraph 2: 'Virtual: puede grabarse y comentarse después.'
+    - Run 0 'Virtual: '
+    - Run 1 'puede grabarse y comentarse después.'
+  * Paragraph 3: 'Ejemplo: panel sobre IA y ética en investigación.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'panel sobre IA y ética en investigación.'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://support.zoom.com/hc
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+[Group] Name: Group 50
+  [Shape] Name: Freeform 51, Type: FREEFORM (5)
+[Group] Name: Group 52
+  [Shape] Name: Freeform 53, Type: FREEFORM (5)
+  [Shape] Name: TextBox 54, Type: TEXT_BOX (17)
+    * Paragraph 0: '⚖️'
+      - Run 0 '⚖️'
+[Group] Name: Group 55
+  [Shape] Name: Freeform 56, Type: FREEFORM (5)
+  [Shape] Name: TextBox 57, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Debates guiados'
+      - Run 0 'Debates guiados'
+[Shape] Name: TextBox 58, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: defensa de argumentos con reglas claras.'
+    - Run 0 'Sirve: '
+    - Run 1 'defensa de argumentos con reglas claras.'
+  * Paragraph 1: 'Investigación: desarrolla pensamiento crítico y análisis de evidencia.'
+    - Run 0 'Investigación: '
+    - Run 1 'desarrolla pensamiento crítico y análisis de evidencia.'
+  * Paragraph 2: 'Virtual: se gestiona por salas, chat y rúbrica.'
+    - Run 0 'Virtual: '
+    - Run 1 'se gestiona por salas, chat y rúbrica.'
+  * Paragraph 3: 'Ejemplo: debate: ¿ChatGPT debe usarse en revisión bibliográfica?'
+    - Run 0 'Ejemplo: '
+    - Run 1 'debate: ¿ChatGPT debe usarse en revisión bibliográfica?'
+[Group] Name: Group 59
+  [Shape] Name: Freeform 60, Type: FREEFORM (5)
+  [Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.canva.com/education/
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 7 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios didácticos'
+      - Run 0 'Medios didácticos'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios de comunicación y exposición'
+      - Run 0 'Medios de comunicación y exposición'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '7/15'
+      - Run 0 '7/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+  [Shape] Name: TextBox 24, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎬 Videos'
+      - Run 0 '🎬 Videos'
+[Shape] Name: TextBox 25, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Descripción: recurso audiovisual breve.'
+    - Run 0 'Descripción: recurso audiovisual breve.'
+  * Paragraph 1: 'Investigación: explica procesos o resultados.'
+    - Run 0 'Investigación: explica procesos o resultados.'
+  * Paragraph 2: 'Virtual: favorece aprendizaje asincrónico.'
+    - Run 0 'Virtual: favorece aprendizaje asincrónico.'
+  * Paragraph 3: 'Ej.: video de 2 min sobre planteamiento del problema.'
+    - Run 0 'Ej.: video de 2 min sobre planteamiento del problema.'
+[Group] Name: Group 26
+  [Shape] Name: Freeform 27, Type: FREEFORM (5)
+  [Shape] Name: TextBox 28, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.youtube.com/
+[Group] Name: Group 29
+  [Shape] Name: Freeform 30, Type: FREEFORM (5)
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: '🌀 Prezi'
+      - Run 0 '🌀 Prezi'
+[Shape] Name: TextBox 34, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Descripción: presentación con zoom narrativo.'
+    - Run 0 'Descripción: presentación con zoom narrativo.'
+  * Paragraph 1: 'Investigación: muestra relaciones entre ideas.'
+    - Run 0 'Investigación: muestra relaciones entre ideas.'
+  * Paragraph 2: 'Virtual: se comparte por enlace.'
+    - Run 0 'Virtual: se comparte por enlace.'
+  * Paragraph 3: 'Ej.: ruta de marco teórico a metodología.'
+    - Run 0 'Ej.: ruta de marco teórico a metodología.'
+[Group] Name: Group 35
+  [Shape] Name: Freeform 36, Type: FREEFORM (5)
+  [Shape] Name: TextBox 37, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://prezi.com/
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+[Group] Name: Group 40
+  [Shape] Name: Freeform 41, Type: FREEFORM (5)
+  [Shape] Name: TextBox 42, Type: TEXT_BOX (17)
+    * Paragraph 0: '✨ Genially'
+      - Run 0 '✨ Genially'
+[Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Descripción: contenido interactivo y animado.'
+    - Run 0 'Descripción: contenido interactivo y animado.'
+  * Paragraph 1: 'Investigación: crea catálogos, infografías y quizzes.'
+    - Run 0 'Investigación: crea catálogos, infografías y quizzes.'
+  * Paragraph 2: 'Virtual: alto nivel de navegación.'
+    - Run 0 'Virtual: alto nivel de navegación.'
+  * Paragraph 3: 'Ej.: catálogo con botones por categoría.'
+    - Run 0 'Ej.: catálogo con botones por categoría.'
+[Group] Name: Group 44
+  [Shape] Name: Freeform 45, Type: FREEFORM (5)
+  [Shape] Name: TextBox 46, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://genially.com/es/
+[Group] Name: Group 47
+  [Shape] Name: Freeform 48, Type: FREEFORM (5)
+[Group] Name: Group 49
+  [Shape] Name: Freeform 50, Type: FREEFORM (5)
+  [Shape] Name: TextBox 51, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎨 Canva'
+      - Run 0 '🎨 Canva'
+[Shape] Name: TextBox 52, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Descripción: diseño de presentaciones y recursos.'
+    - Run 0 'Descripción: diseño de presentaciones y recursos.'
+  * Paragraph 1: 'Investigación: visualiza fichas, mapas y pósteres.'
+    - Run 0 'Investigación: visualiza fichas, mapas y pósteres.'
+  * Paragraph 2: 'Virtual: coedición sencilla.'
+    - Run 0 'Virtual: coedición sencilla.'
+  * Paragraph 3: 'Ej.: presentación interactiva con links.'
+    - Run 0 'Ej.: presentación interactiva con links.'
+[Group] Name: Group 53
+  [Shape] Name: Freeform 54, Type: FREEFORM (5)
+  [Shape] Name: TextBox 55, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.canva.com/presentations/
+[Group] Name: Group 56
+  [Shape] Name: Freeform 57, Type: FREEFORM (5)
+[Group] Name: Group 58
+  [Shape] Name: Freeform 59, Type: FREEFORM (5)
+  [Shape] Name: TextBox 60, Type: TEXT_BOX (17)
+    * Paragraph 0: '🖱️ PowerPoint interactivo'
+      - Run 0 '🖱️ PowerPoint interactivo'
+[Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Descripción: diapositivas con botones de acción.'
+    - Run 0 'Descripción: diapositivas con botones de acción.'
+  * Paragraph 1: 'Investigación: organiza una exposición tipo catálogo.'
+    - Run 0 'Investigación: organiza una exposición tipo catálogo.'
+  * Paragraph 2: 'Virtual: se exporta a PDF, video o web.'
+    - Run 0 'Virtual: se exporta a PDF, video o web.'
+  * Paragraph 3: 'Ej.: menú principal con hipervínculos.'
+    - Run 0 'Ej.: menú principal con hipervínculos.'
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://support.microsoft.com/powerpoint
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 68
+  [Shape] Name: Freeform 69, Type: FREEFORM (5)
+  [Shape] Name: TextBox 70, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 8 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios didácticos'
+      - Run 0 'Medios didácticos'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios de comunicación sincrónica y académica'
+      - Run 0 'Medios de comunicación sincrónica y académica'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '8/15'
+      - Run 0 '8/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎥'
+      - Run 0 '🎥'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Zoom'
+      - Run 0 'Zoom'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: videoconferencias, salas y grabaciones.'
+    - Run 0 'Sirve: '
+    - Run 1 'videoconferencias, salas y grabaciones.'
+  * Paragraph 1: 'Investigación: asesorías, entrevistas y sustentaciones.'
+    - Run 0 'Investigación: '
+    - Run 1 'asesorías, entrevistas y sustentaciones.'
+  * Paragraph 2: 'Virtual: facilita interacción en tiempo real.'
+    - Run 0 'Virtual: '
+    - Run 1 'facilita interacción en tiempo real.'
+  * Paragraph 3: 'Ejemplo: tutoría para revisar objetivos de investigación.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'tutoría para revisar objetivos de investigación.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://zoom.us/
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: '📹'
+      - Run 0 '📹'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Google Meet'
+      - Run 0 'Google Meet'
+[Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: reuniones integradas a Google Workspace.'
+    - Run 0 'Sirve: '
+    - Run 1 'reuniones integradas a Google Workspace.'
+  * Paragraph 1: 'Investigación: clases, asesorías y coordinación de equipos.'
+    - Run 0 'Investigación: '
+    - Run 1 'clases, asesorías y coordinación de equipos.'
+  * Paragraph 2: 'Virtual: acceso rápido desde enlaces y calendario.'
+    - Run 0 'Virtual: '
+    - Run 1 'acceso rápido desde enlaces y calendario.'
+  * Paragraph 3: 'Ejemplo: exposición de avances de marco teórico.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'exposición de avances de marco teórico.'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://meet.google.com/
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+[Group] Name: Group 50
+  [Shape] Name: Freeform 51, Type: FREEFORM (5)
+[Group] Name: Group 52
+  [Shape] Name: Freeform 53, Type: FREEFORM (5)
+  [Shape] Name: TextBox 54, Type: TEXT_BOX (17)
+    * Paragraph 0: '📱'
+      - Run 0 '📱'
+[Group] Name: Group 55
+  [Shape] Name: Freeform 56, Type: FREEFORM (5)
+  [Shape] Name: TextBox 57, Type: TEXT_BOX (17)
+    * Paragraph 0: 'WhatsApp académico'
+      - Run 0 'WhatsApp académico'
+[Shape] Name: TextBox 58, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: comunicación rápida y seguimiento grupal.'
+    - Run 0 'Sirve: '
+    - Run 1 'comunicación rápida y seguimiento grupal.'
+  * Paragraph 1: 'Investigación: coordina tareas, recordatorios y evidencias.'
+    - Run 0 'Investigación: '
+    - Run 1 'coordina tareas, recordatorios y evidencias.'
+  * Paragraph 2: 'Virtual: útil para acompañamiento inmediato.'
+    - Run 0 'Virtual: '
+    - Run 1 'útil para acompañamiento inmediato.'
+  * Paragraph 3: 'Ejemplo: grupo de equipo para avisos y entrega de fichas.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'grupo de equipo para avisos y entrega de fichas.'
+[Group] Name: Group 59
+  [Shape] Name: Freeform 60, Type: FREEFORM (5)
+  [Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.whatsapp.com/
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 9 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios didácticos'
+      - Run 0 'Medios didácticos'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios de co-creación visual'
+      - Run 0 'Medios de co-creación visual'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '9/15'
+      - Run 0 '9/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+  [Shape] Name: TextBox 24, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧭 Miro'
+      - Run 0 '🧭 Miro'
+[Shape] Name: TextBox 25, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Pizarra colaborativa para mapas, flujos y lluvias de ideas.'
+    - Run 0 'Pizarra colaborativa para mapas, flujos y lluvias de ideas.'
+  * Paragraph 1: 'Ej.: árbol de problemas construido por equipos.'
+    - Run 0 'Ej.: árbol de problemas construido por equipos.'
+[Group] Name: Group 26
+  [Shape] Name: Freeform 27, Type: FREEFORM (5)
+  [Shape] Name: TextBox 28, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://miro.com/
+[Group] Name: Group 29
+  [Shape] Name: Freeform 30, Type: FREEFORM (5)
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧠 MindMeister'
+      - Run 0 '🧠 MindMeister'
+[Shape] Name: TextBox 34, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Mapas mentales colaborativos.'
+    - Run 0 'Mapas mentales colaborativos.'
+  * Paragraph 1: 'Ej.: organizar variables y dimensiones de un tema.'
+    - Run 0 'Ej.: organizar variables y dimensiones de un tema.'
+[Group] Name: Group 35
+  [Shape] Name: Freeform 36, Type: FREEFORM (5)
+  [Shape] Name: TextBox 37, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.mindmeister.com/
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+[Group] Name: Group 40
+  [Shape] Name: Freeform 41, Type: FREEFORM (5)
+  [Shape] Name: TextBox 42, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧱 Padlet'
+      - Run 0 '🧱 Padlet'
+[Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Muro digital para evidencias, enlaces y comentarios.'
+    - Run 0 'Muro digital para evidencias, enlaces y comentarios.'
+  * Paragraph 1: 'Ej.: banco de artículos sobre investigación científica.'
+    - Run 0 'Ej.: banco de artículos sobre investigación científica.'
+[Group] Name: Group 44
+  [Shape] Name: Freeform 45, Type: FREEFORM (5)
+  [Shape] Name: TextBox 46, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://padlet.com/
+[Group] Name: Group 47
+  [Shape] Name: Freeform 48, Type: FREEFORM (5)
+[Group] Name: Group 49
+  [Shape] Name: Freeform 50, Type: FREEFORM (5)
+  [Shape] Name: TextBox 51, Type: TEXT_BOX (17)
+    * Paragraph 0: '📝 Jamboard'
+      - Run 0 '📝 Jamboard'
+[Shape] Name: TextBox 52, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Pizarra digital referencial; Google finalizó el servicio.'
+    - Run 0 'Pizarra digital referencial; Google finalizó el servicio.'
+  * Paragraph 1: 'Ej.: se explica como antecedente de pizarras colaborativas.'
+    - Run 0 'Ej.: se explica como antecedente de pizarras colaborativas.'
+[Group] Name: Group 53
+  [Shape] Name: Freeform 54, Type: FREEFORM (5)
+  [Shape] Name: TextBox 55, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://support.google.com/jamboard?hl=es
+[Group] Name: Group 56
+  [Shape] Name: Freeform 57, Type: FREEFORM (5)
+[Group] Name: Group 58
+  [Shape] Name: Freeform 59, Type: FREEFORM (5)
+  [Shape] Name: TextBox 60, Type: TEXT_BOX (17)
+    * Paragraph 0: '🔷 Lucidchart'
+      - Run 0 '🔷 Lucidchart'
+[Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Diagramas, mapas y flujos profesionales.'
+    - Run 0 'Diagramas, mapas y flujos profesionales.'
+  * Paragraph 1: 'Ej.: diagrama de metodología de investigación.'
+    - Run 0 'Ej.: diagrama de metodología de investigación.'
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.lucidchart.com/
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 68
+  [Shape] Name: Freeform 69, Type: FREEFORM (5)
+  [Shape] Name: TextBox 70, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 10 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios didácticos'
+      - Run 0 'Medios didácticos'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios de organización del trabajo'
+      - Run 0 'Medios de organización del trabajo'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '10/15'
+      - Run 0 '10/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '🗂️'
+      - Run 0 '🗂️'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Trello'
+      - Run 0 'Trello'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: tableros Kanban para tareas y responsables.'
+    - Run 0 'Sirve: '
+    - Run 1 'tableros Kanban para tareas y responsables.'
+  * Paragraph 1: 'Investigación: ordena etapas: búsqueda, lectura, redacción y revisión.'
+    - Run 0 'Investigación: '
+    - Run 1 'ordena etapas: búsqueda, lectura, redacción y revisión.'
+  * Paragraph 2: 'Virtual: visibiliza avances del equipo.'
+    - Run 0 'Virtual: '
+    - Run 1 'visibiliza avances del equipo.'
+  * Paragraph 3: 'Ejemplo: lista “Pendiente-En proceso-Entregado” del catálogo.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'lista “Pendiente-En proceso-Entregado” del catálogo.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://trello.com/
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: '📒'
+      - Run 0 '📒'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Notion'
+      - Run 0 'Notion'
+[Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: espacio todo-en-uno para notas, bases de datos y cronogramas.'
+    - Run 0 'Sirve: '
+    - Run 1 'espacio todo-en-uno para notas, bases de datos y cronogramas.'
+  * Paragraph 1: 'Investigación: centraliza fuentes, fichas y borradores.'
+    - Run 0 'Investigación: '
+    - Run 1 'centraliza fuentes, fichas y borradores.'
+  * Paragraph 2: 'Virtual: permite plantillas y trabajo colaborativo.'
+    - Run 0 'Virtual: '
+    - Run 1 'permite plantillas y trabajo colaborativo.'
+  * Paragraph 3: 'Ejemplo: base de datos con técnicas, enlaces y ejemplos.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'base de datos con técnicas, enlaces y ejemplos.'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.notion.so/
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+  [Shape] Name: TextBox 50, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 51
+  [Shape] Name: Freeform 52, Type: FREEFORM (5)
+  [Shape] Name: TextBox 53, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 11 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Evaluación y gestión'
+      - Run 0 'Evaluación y gestión'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios de evaluación: gamificación'
+      - Run 0 'Medios de evaluación: gamificación'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '11/15'
+      - Run 0 '11/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+  [Shape] Name: TextBox 24, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎯 Quizizz'
+      - Run 0 '🎯 Quizizz'
+[Shape] Name: TextBox 25, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Cuestionarios gamificados con retroalimentación.'
+    - Run 0 'Cuestionarios gamificados con retroalimentación.'
+  * Paragraph 1: 'Ej.: medir comprensión de técnicas didácticas.'
+    - Run 0 'Ej.: medir comprensión de técnicas didácticas.'
+[Group] Name: Group 26
+  [Shape] Name: Freeform 27, Type: FREEFORM (5)
+  [Shape] Name: TextBox 28, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://quizizz.com/
+[Group] Name: Group 29
+  [Shape] Name: Freeform 30, Type: FREEFORM (5)
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: '🏆 Kahoot'
+      - Run 0 '🏆 Kahoot'
+[Shape] Name: TextBox 34, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Juego de preguntas en vivo.'
+    - Run 0 'Juego de preguntas en vivo.'
+  * Paragraph 1: 'Ej.: repaso rápido de medios didácticos.'
+    - Run 0 'Ej.: repaso rápido de medios didácticos.'
+[Group] Name: Group 35
+  [Shape] Name: Freeform 36, Type: FREEFORM (5)
+  [Shape] Name: TextBox 37, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://kahoot.com/
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+[Group] Name: Group 40
+  [Shape] Name: Freeform 41, Type: FREEFORM (5)
+  [Shape] Name: TextBox 42, Type: TEXT_BOX (17)
+    * Paragraph 0: '📊 Mentimeter'
+      - Run 0 '📊 Mentimeter'
+[Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Nubes de palabras, encuestas y votaciones.'
+    - Run 0 'Nubes de palabras, encuestas y votaciones.'
+  * Paragraph 1: 'Ej.: elegir la técnica más útil para investigar.'
+    - Run 0 'Ej.: elegir la técnica más útil para investigar.'
+[Group] Name: Group 44
+  [Shape] Name: Freeform 45, Type: FREEFORM (5)
+  [Shape] Name: TextBox 46, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.mentimeter.com/
+[Group] Name: Group 47
+  [Shape] Name: Freeform 48, Type: FREEFORM (5)
+[Group] Name: Group 49
+  [Shape] Name: Freeform 50, Type: FREEFORM (5)
+  [Shape] Name: TextBox 51, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧩 Wordwall'
+      - Run 0 '🧩 Wordwall'
+[Shape] Name: TextBox 52, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Actividades interactivas y plantillas.'
+    - Run 0 'Actividades interactivas y plantillas.'
+  * Paragraph 1: 'Ej.: relacionar herramienta con función educativa.'
+    - Run 0 'Ej.: relacionar herramienta con función educativa.'
+[Group] Name: Group 53
+  [Shape] Name: Freeform 54, Type: FREEFORM (5)
+  [Shape] Name: TextBox 55, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://wordwall.net/
+[Group] Name: Group 56
+  [Shape] Name: Freeform 57, Type: FREEFORM (5)
+[Group] Name: Group 58
+  [Shape] Name: Freeform 59, Type: FREEFORM (5)
+  [Shape] Name: TextBox 60, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Ventaja e-learning: convierten la evaluación en una experiencia participativa, con resultados inmediatos y posibilidad de retroalimentación.'
+      - Run 0 'Ventaja e-learning: convierten la evaluación en una experiencia participativa, con resultados inmediatos y posibilidad de retroalimentación.'
+[Group] Name: Group 61
+  [Shape] Name: Freeform 62, Type: FREEFORM (5)
+  [Shape] Name: TextBox 63, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 64
+  [Shape] Name: Freeform 65, Type: FREEFORM (5)
+  [Shape] Name: TextBox 66, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 12 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Evaluación y gestión'
+      - Run 0 'Evaluación y gestión'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios de gestión del aprendizaje'
+      - Run 0 'Medios de gestión del aprendizaje'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '12/15'
+      - Run 0 '12/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+[Group] Name: Group 24
+  [Shape] Name: Freeform 25, Type: FREEFORM (5)
+  [Shape] Name: TextBox 26, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎓'
+      - Run 0 '🎓'
+[Group] Name: Group 27
+  [Shape] Name: Freeform 28, Type: FREEFORM (5)
+  [Shape] Name: TextBox 29, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Moodle'
+      - Run 0 'Moodle'
+[Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: LMS para cursos, foros, tareas y calificaciones.'
+    - Run 0 'Sirve: '
+    - Run 1 'LMS para cursos, foros, tareas y calificaciones.'
+  * Paragraph 1: 'Investigación: gestiona actividades de investigación y rúbricas.'
+    - Run 0 'Investigación: '
+    - Run 1 'gestiona actividades de investigación y rúbricas.'
+  * Paragraph 2: 'Virtual: centraliza recursos y seguimiento.'
+    - Run 0 'Virtual: '
+    - Run 1 'centraliza recursos y seguimiento.'
+  * Paragraph 3: 'Ejemplo: aula con foro, tarea de matriz y cuestionario.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'aula con foro, tarea de matriz y cuestionario.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://moodle.org/
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+[Group] Name: Group 36
+  [Shape] Name: Freeform 37, Type: FREEFORM (5)
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: '🏫'
+      - Run 0 '🏫'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+  [Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Google Classroom'
+      - Run 0 'Google Classroom'
+[Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: gestión de clases integrada con Google.'
+    - Run 0 'Sirve: '
+    - Run 1 'gestión de clases integrada con Google.'
+  * Paragraph 1: 'Investigación: asigna lecturas, fichas y entregas.'
+    - Run 0 'Investigación: '
+    - Run 1 'asigna lecturas, fichas y entregas.'
+  * Paragraph 2: 'Virtual: fácil acceso para estudiantes.'
+    - Run 0 'Virtual: '
+    - Run 1 'fácil acceso para estudiantes.'
+  * Paragraph 3: 'Ejemplo: publicar instrucciones y recibir avances del catálogo.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'publicar instrucciones y recibir avances del catálogo.'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://classroom.google.com/
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+[Group] Name: Group 50
+  [Shape] Name: Freeform 51, Type: FREEFORM (5)
+[Group] Name: Group 52
+  [Shape] Name: Freeform 53, Type: FREEFORM (5)
+  [Shape] Name: TextBox 54, Type: TEXT_BOX (17)
+    * Paragraph 0: '📘'
+      - Run 0 '📘'
+[Group] Name: Group 55
+  [Shape] Name: Freeform 56, Type: FREEFORM (5)
+  [Shape] Name: TextBox 57, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Canvas LMS'
+      - Run 0 'Canvas LMS'
+[Shape] Name: TextBox 58, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Sirve: plataforma LMS para cursos y evaluación.'
+    - Run 0 'Sirve: '
+    - Run 1 'plataforma LMS para cursos y evaluación.'
+  * Paragraph 1: 'Investigación: organiza módulos, rúbricas y progreso.'
+    - Run 0 'Investigación: '
+    - Run 1 'organiza módulos, rúbricas y progreso.'
+  * Paragraph 2: 'Virtual: ofrece gestión estructurada de aprendizajes.'
+    - Run 0 'Virtual: '
+    - Run 1 'ofrece gestión estructurada de aprendizajes.'
+  * Paragraph 3: 'Ejemplo: módulo de técnicas didácticas con evidencias.'
+    - Run 0 'Ejemplo: '
+    - Run 1 'módulo de técnicas didácticas con evidencias.'
+[Group] Name: Group 59
+  [Shape] Name: Freeform 60, Type: FREEFORM (5)
+  [Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Abrir recurso ↗'
+      - Run 0 'Abrir recurso ↗' -> LINK: https://www.instructure.com/canvas
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 13 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios didácticos'
+      - Run 0 'Medios didácticos'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Medios para investigación y apoyo con IA'
+      - Run 0 'Medios para investigación y apoyo con IA'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '13/15'
+      - Run 0 '13/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+  [Shape] Name: TextBox 24, Type: TEXT_BOX (17)
+    * Paragraph 0: '📚 Zotero'
+      - Run 0 '📚 Zotero'
+[Shape] Name: TextBox 25, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Gestor bibliográfico para guardar, organizar y citar fuentes.'
+    - Run 0 'Gestor bibliográfico para guardar, organizar y citar fuentes.'
+  * Paragraph 1: 'Ej.: crear referencias APA del catálogo.'
+    - Run 0 'Ej.: crear referencias APA del catálogo.'
+[Group] Name: Group 26
+  [Shape] Name: Freeform 27, Type: FREEFORM (5)
+  [Shape] Name: TextBox 28, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.zotero.org/
+[Group] Name: Group 29
+  [Shape] Name: Freeform 30, Type: FREEFORM (5)
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: '📖 Mendeley'
+      - Run 0 '📖 Mendeley'
+[Shape] Name: TextBox 34, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Gestor de referencias y lector PDF.'
+    - Run 0 'Gestor de referencias y lector PDF.'
+  * Paragraph 1: 'Ej.: etiquetar artículos por tema y metodología.'
+    - Run 0 'Ej.: etiquetar artículos por tema y metodología.'
+[Group] Name: Group 35
+  [Shape] Name: Freeform 36, Type: FREEFORM (5)
+  [Shape] Name: TextBox 37, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://www.mendeley.com/
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+[Group] Name: Group 40
+  [Shape] Name: Freeform 41, Type: FREEFORM (5)
+  [Shape] Name: TextBox 42, Type: TEXT_BOX (17)
+    * Paragraph 0: '🤖 ChatGPT'
+      - Run 0 '🤖 ChatGPT'
+[Shape] Name: TextBox 43, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Asistente para idear, resumir y revisar borradores.'
+    - Run 0 'Asistente para idear, resumir y revisar borradores.'
+  * Paragraph 1: 'Ej.: generar preguntas para debate y mejorar redacción.'
+    - Run 0 'Ej.: generar preguntas para debate y mejorar redacción.'
+[Group] Name: Group 44
+  [Shape] Name: Freeform 45, Type: FREEFORM (5)
+  [Shape] Name: TextBox 46, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://chatgpt.com/
+[Group] Name: Group 47
+  [Shape] Name: Freeform 48, Type: FREEFORM (5)
+[Group] Name: Group 49
+  [Shape] Name: Freeform 50, Type: FREEFORM (5)
+  [Shape] Name: TextBox 51, Type: TEXT_BOX (17)
+    * Paragraph 0: '🔎 Elicit'
+      - Run 0 '🔎 Elicit'
+[Shape] Name: TextBox 52, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Búsqueda y síntesis de literatura científica.'
+    - Run 0 'Búsqueda y síntesis de literatura científica.'
+  * Paragraph 1: 'Ej.: localizar papers sobre e-learning e investigación.'
+    - Run 0 'Ej.: localizar papers sobre e-learning e investigación.'
+[Group] Name: Group 53
+  [Shape] Name: Freeform 54, Type: FREEFORM (5)
+  [Shape] Name: TextBox 55, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://elicit.com/
+[Group] Name: Group 56
+  [Shape] Name: Freeform 57, Type: FREEFORM (5)
+[Group] Name: Group 58
+  [Shape] Name: Freeform 59, Type: FREEFORM (5)
+  [Shape] Name: TextBox 60, Type: TEXT_BOX (17)
+    * Paragraph 0: '🧬 Scite.ai'
+      - Run 0 '🧬 Scite.ai'
+[Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Análisis de citas: apoya, menciona o contradice.'
+    - Run 0 'Análisis de citas: apoya, menciona o contradice.'
+  * Paragraph 1: 'Ej.: revisar cómo se usa un artículo clave.'
+    - Run 0 'Ej.: revisar cómo se usa un artículo clave.'
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: '↗'
+      - Run 0 '↗' -> LINK: https://scite.ai/
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+  [Shape] Name: TextBox 67, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 68
+  [Shape] Name: Freeform 69, Type: FREEFORM (5)
+  [Shape] Name: TextBox 70, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 14 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Presentación'
+      - Run 0 'Presentación'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Justificación e-learning y competencias del tutor investigador virtual'
+      - Run 0 'Justificación e-learning y competencias del tutor investigador virtual'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '14/15'
+      - Run 0 '14/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+  [Shape] Name: TextBox 24, Type: TEXT_BOX (17)
+    * Paragraph 0: '🎯 ¿Por qué estas técnicas?'
+      - Run 0 '🎯 ¿Por qué estas técnicas?'
+[Shape] Name: TextBox 25, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Porque guían el pensamiento investigativo: problematizar, organizar conceptos, revisar fuentes y comunicar hallazgos.'
+    - Run 0 'Porque guían el pensamiento investigativo: problematizar, organizar conceptos, revisar fuentes y comunicar hallazgos.'
+[Group] Name: Group 26
+  [Shape] Name: Freeform 27, Type: FREEFORM (5)
+[Group] Name: Group 28
+  [Shape] Name: Freeform 29, Type: FREEFORM (5)
+  [Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+    * Paragraph 0: '💻 ¿Por qué estos medios?'
+      - Run 0 '💻 ¿Por qué estos medios?'
+[Shape] Name: TextBox 31, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Porque permiten interacción, co-creación, evaluación inmediata, gestión de cursos y acceso a recursos académicos.'
+    - Run 0 'Porque permiten interacción, co-creación, evaluación inmediata, gestión de cursos y acceso a recursos académicos.'
+[Group] Name: Group 32
+  [Shape] Name: Freeform 33, Type: FREEFORM (5)
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+  [Shape] Name: TextBox 36, Type: TEXT_BOX (17)
+    * Paragraph 0: '🌐 Valor para entornos virtuales'
+      - Run 0 '🌐 Valor para entornos virtuales'
+[Shape] Name: TextBox 37, Type: TEXT_BOX (17)
+  * Paragraph 0: 'Mejoran participación, autonomía, seguimiento, colaboración y retroalimentación en modalidad e-learning.'
+    - Run 0 'Mejoran participación, autonomía, seguimiento, colaboración y retroalimentación en modalidad e-learning.'
+[Group] Name: Group 38
+  [Shape] Name: Freeform 39, Type: FREEFORM (5)
+  [Shape] Name: TextBox 40, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Competencias del tutor investigador virtual'
+      - Run 0 'Competencias del tutor investigador virtual'
+[Group] Name: Group 41
+  [Shape] Name: Freeform 42, Type: FREEFORM (5)
+[Group] Name: Group 43
+  [Shape] Name: Freeform 44, Type: FREEFORM (5)
+  [Shape] Name: TextBox 45, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Orientación metodológica'
+      - Run 0 'Orientación metodológica'
+[Group] Name: Group 46
+  [Shape] Name: Freeform 47, Type: FREEFORM (5)
+  [Shape] Name: TextBox 48, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Ayuda a formular problemas, objetivos y preguntas.'
+      - Run 0 'Ayuda a formular problemas, objetivos y preguntas.'
+[Group] Name: Group 49
+  [Shape] Name: Freeform 50, Type: FREEFORM (5)
+[Group] Name: Group 51
+  [Shape] Name: Freeform 52, Type: FREEFORM (5)
+  [Shape] Name: TextBox 53, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Mediación digital'
+      - Run 0 'Mediación digital'
+[Group] Name: Group 54
+  [Shape] Name: Freeform 55, Type: FREEFORM (5)
+  [Shape] Name: TextBox 56, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Selecciona la herramienta adecuada para cada actividad.'
+      - Run 0 'Selecciona la herramienta adecuada para cada actividad.'
+[Group] Name: Group 57
+  [Shape] Name: Freeform 58, Type: FREEFORM (5)
+[Group] Name: Group 59
+  [Shape] Name: Freeform 60, Type: FREEFORM (5)
+  [Shape] Name: TextBox 61, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Retroalimentación formativa'
+      - Run 0 'Retroalimentación formativa'
+[Group] Name: Group 62
+  [Shape] Name: Freeform 63, Type: FREEFORM (5)
+  [Shape] Name: TextBox 64, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Evalúa avances con criterios claros y oportunos.'
+      - Run 0 'Evalúa avances con criterios claros y oportunos.'
+[Group] Name: Group 65
+  [Shape] Name: Freeform 66, Type: FREEFORM (5)
+[Group] Name: Group 67
+  [Shape] Name: Freeform 68, Type: FREEFORM (5)
+  [Shape] Name: TextBox 69, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Ética y uso responsable'
+      - Run 0 'Ética y uso responsable'
+[Group] Name: Group 70
+  [Shape] Name: Freeform 71, Type: FREEFORM (5)
+  [Shape] Name: TextBox 72, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Promueve citas, integridad académica y uso crítico de IA.'
+      - Run 0 'Promueve citas, integridad académica y uso crítico de IA.'
+[Group] Name: Group 73
+  [Shape] Name: Freeform 74, Type: FREEFORM (5)
+  [Shape] Name: TextBox 75, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 76
+  [Shape] Name: Freeform 77, Type: FREEFORM (5)
+  [Shape] Name: TextBox 78, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'
+
+================ SLIDE 15 ================
+[Group] Name: Group 2
+  [Shape] Name: Freeform 3, Type: FREEFORM (5)
+[Group] Name: Group 4
+  [Shape] Name: Freeform 5, Type: FREEFORM (5)
+[Group] Name: Group 6
+  [Shape] Name: Freeform 7, Type: FREEFORM (5)
+  [Shape] Name: TextBox 8, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Guía final'
+      - Run 0 'Guía final'
+[Group] Name: Group 9
+  [Shape] Name: Freeform 10, Type: FREEFORM (5)
+  [Shape] Name: TextBox 11, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Cierre: cómo presentar el catálogo'
+      - Run 0 'Cierre: cómo presentar el catálogo'
+[Group] Name: Group 12
+  [Shape] Name: Freeform 13, Type: FREEFORM (5)
+  [Shape] Name: TextBox 14, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Inicio'
+      - Run 0 'Inicio' -> LINK: slide2.xml
+[Group] Name: Group 15
+  [Shape] Name: Freeform 16, Type: FREEFORM (5)
+[Group] Name: Group 17
+  [Shape] Name: Freeform 18, Type: FREEFORM (5)
+  [Shape] Name: TextBox 19, Type: TEXT_BOX (17)
+    * Paragraph 0: '15/15'
+      - Run 0 '15/15'
+[Group] Name: Group 20
+  [Shape] Name: Freeform 21, Type: FREEFORM (5)
+[Group] Name: Group 22
+  [Shape] Name: Freeform 23, Type: FREEFORM (5)
+  [Shape] Name: TextBox 24, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Guion breve de exposición'
+      - Run 0 'Guion breve de exposición'
+[Group] Name: Group 25
+  [Shape] Name: Freeform 26, Type: FREEFORM (5)
+  [Shape] Name: TextBox 27, Type: TEXT_BOX (17)
+    * Paragraph 0: '✓ Presentar el nombre del catálogo e integrantes.'
+      - Run 0 '✓ Presentar el nombre del catálogo e integrantes.'
+[Group] Name: Group 28
+  [Shape] Name: Freeform 29, Type: FREEFORM (5)
+  [Shape] Name: TextBox 30, Type: TEXT_BOX (17)
+    * Paragraph 0: '✓ Explicar la navegación por categorías.'
+      - Run 0 '✓ Explicar la navegación por categorías.'
+[Group] Name: Group 31
+  [Shape] Name: Freeform 32, Type: FREEFORM (5)
+  [Shape] Name: TextBox 33, Type: TEXT_BOX (17)
+    * Paragraph 0: '✓ Mostrar 2 técnicas y 2 medios como ejemplo.'
+      - Run 0 '✓ Mostrar 2 técnicas y 2 medios como ejemplo.'
+[Group] Name: Group 34
+  [Shape] Name: Freeform 35, Type: FREEFORM (5)
+  [Shape] Name: TextBox 36, Type: TEXT_BOX (17)
+    * Paragraph 0: '✓ Justificar su utilidad para investigación científica en e-learning.'
+      - Run 0 '✓ Justificar su utilidad para investigación científica en e-learning.'
+[Group] Name: Group 37
+  [Shape] Name: Freeform 38, Type: FREEFORM (5)
+  [Shape] Name: TextBox 39, Type: TEXT_BOX (17)
+    * Paragraph 0: '✓ Cerrar con competencias del tutor investigador virtual.'
+      - Run 0 '✓ Cerrar con competencias del tutor investigador virtual.'
+[Group] Name: Group 40
+  [Shape] Name: Freeform 41, Type: FREEFORM (5)
+[Group] Name: Group 42
+  [Shape] Name: Freeform 43, Type: FREEFORM (5)
+  [Shape] Name: TextBox 44, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Referencias y recursos de acceso'
+      - Run 0 'Referencias y recursos de acceso'
+[Group] Name: Group 45
+  [Shape] Name: Freeform 46, Type: FREEFORM (5)
+  [Shape] Name: TextBox 47, Type: TEXT_BOX (17)
+    * Paragraph 0: '• Canva. Herramienta de diseño y presentaciones.  ↗'
+      - Run 0 '• Canva. Herramienta de diseño y presentaciones.  ↗' -> LINK: https://www.canva.com/
+[Group] Name: Group 48
+  [Shape] Name: Freeform 49, Type: FREEFORM (5)
+  [Shape] Name: TextBox 50, Type: TEXT_BOX (17)
+    * Paragraph 0: '• Genially. Contenido interactivo y animado.  ↗'
+      - Run 0 '• Genially. Contenido interactivo y animado.  ↗' -> LINK: https://genially.com/es/
+[Group] Name: Group 51
+  [Shape] Name: Freeform 52, Type: FREEFORM (5)
+  [Shape] Name: TextBox 53, Type: TEXT_BOX (17)
+    * Paragraph 0: '• Moodle. Plataforma LMS de código abierto.  ↗'
+      - Run 0 '• Moodle. Plataforma LMS de código abierto.  ↗' -> LINK: https://moodle.org/
+[Group] Name: Group 54
+  [Shape] Name: Freeform 55, Type: FREEFORM (5)
+  [Shape] Name: TextBox 56, Type: TEXT_BOX (17)
+    * Paragraph 0: '• Zotero. Gestor de referencias bibliográficas.  ↗'
+      - Run 0 '• Zotero. Gestor de referencias bibliográficas.  ↗' -> LINK: https://www.zotero.org/
+[Group] Name: Group 57
+  [Shape] Name: Freeform 58, Type: FREEFORM (5)
+  [Shape] Name: TextBox 59, Type: TEXT_BOX (17)
+    * Paragraph 0: '• Google. Información de cierre de Jamboard.  ↗'
+      - Run 0 '• Google. Información de cierre de Jamboard.  ↗' -> LINK: https://support.google.com/jamboard?hl=es
+[Group] Name: Group 60
+  [Shape] Name: Freeform 61, Type: FREEFORM (5)
+  [Shape] Name: TextBox 62, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Nota para Canva/Genially: subir este PPTX, activar enlaces internos/externos y pegar el enlace publicado en la carátula.'
+      - Run 0 'Nota para Canva/Genially: subir este PPTX, activar enlaces internos/externos y pegar el enlace publicado en la carátula.'
+[Group] Name: Group 63
+  [Shape] Name: Freeform 64, Type: FREEFORM (5)
+  [Shape] Name: TextBox 65, Type: TEXT_BOX (17)
+    * Paragraph 0: 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+      - Run 0 'Catálogo interactivo de técnicas y medios didácticos para la enseñanza de la investigación científica'
+[Group] Name: Group 66
+  [Shape] Name: Freeform 67, Type: FREEFORM (5)
+  [Shape] Name: TextBox 68, Type: TEXT_BOX (17)
+    * Paragraph 0: 'UCV Virtual | Examen Parcial'
+      - Run 0 'UCV Virtual | Examen Parcial'

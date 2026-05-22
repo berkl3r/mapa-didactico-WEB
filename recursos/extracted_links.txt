@@ -1,0 +1,32 @@
+=== Extracted Hyperlinks from PPTX (Recursive) ===
+
+Slide 2 | Text Link | 'Inicio' -> slide2.xml
+Slide 2 | Text Link | '1. Técnicas de problematización' -> slide3.xml
+Slide 2 | Text Link | 'CLIC PARA ABRIR' -> slide3.xml
+Slide 2 | Text Link | '2. Organización conceptual' -> slide4.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide4.xml
+Slide 2 | Text Link | '3. Revisión de fuentes' -> slide5.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide5.xml
+Slide 2 | Text Link | '4. Comunicación académica' -> slide6.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide6.xml
+Slide 2 | Text Link | '5. Comunicación y exposición' -> slide7.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide7.xml
+Slide 2 | Text Link | '6. Co-creación y organización' -> slide9.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide9.xml
+Slide 2 | Text Link | '7. Evaluación y gestión' -> slide11.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide11.xml
+Slide 2 | Text Link | '8. Investigación digital' -> slide13.xml
+Slide 2 | Text Link | 'clic para abrir' -> slide13.xml
+Slide 3 | Text Link | 'Inicio' -> slide2.xml
+Slide 4 | Text Link | 'Inicio' -> slide2.xml
+Slide 5 | Text Link | 'Inicio' -> slide2.xml
+Slide 6 | Text Link | 'Inicio' -> slide2.xml
+Slide 7 | Text Link | 'Inicio' -> slide2.xml
+Slide 8 | Text Link | 'Inicio' -> slide2.xml
+Slide 9 | Text Link | 'Inicio' -> slide2.xml
+Slide 10 | Text Link | 'Inicio' -> slide2.xml
+Slide 11 | Text Link | 'Inicio' -> slide2.xml
+Slide 12 | Text Link | 'Inicio' -> slide2.xml
+Slide 13 | Text Link | 'Inicio' -> slide2.xml
+Slide 14 | Text Link | 'Inicio' -> slide2.xml
+Slide 15 | Text Link | 'Inicio' -> slide2.xml

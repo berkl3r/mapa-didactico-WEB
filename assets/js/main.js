@@ -12,7 +12,7 @@ const tools = [
     scientificUse: 'Se utiliza para descomponer problemas complejos de investigación en factores manejables. Ayuda a formular hipótesis causales y a estructurar el marco teórico en torno a variables interrelacionadas.',
     virtualAdvantages: 'Facilita la lluvia de ideas en equipos remotos usando pizarras digitales colaborativas. Permite que cada integrante aporte causas desde su perspectiva en tiempo real.',
     practicalExample: 'Al investigar la deserción universitaria, se coloca el problema en la cabeza del pescado y se identifican causas como: factores económicos, académicos, familiares y de salud, cada uno con sus ramificaciones específicas.',
-    link: 'https://www.canva.com/es_mx/graficos/diagrama-de-ishikawa/'
+    link: 'https://miro.com/diagramming/what-is-a-fishbone-diagram/'
   },
   {
     id: 'arbol-problemas',
@@ -25,7 +25,7 @@ const tools = [
     scientificUse: 'Permite definir con precisión el problema de investigación y visualizar sus dimensiones. Es útil para la elaboración del planteamiento del problema y la justificación del estudio.',
     virtualAdvantages: 'Se puede construir colaborativamente en plataformas como Miro o Lucidchart. Cada miembro del equipo puede añadir causas y efectos desde cualquier ubicación.',
     practicalExample: 'Para investigar la baja producción científica en una universidad, se coloca este problema como tronco, las raíces serían falta de capacitación y recursos, y las ramas serían pocas publicaciones y bajo impacto académico.',
-    link: 'https://miro.com/es/diagrama-de-arbol/'
+    link: 'https://miro.com/diagramming/problem-tree-analysis/'
   },
   {
     id: 'lineas-tiempo',
@@ -38,21 +38,47 @@ const tools = [
     scientificUse: 'Ayuda a contextualizar el estado del arte mostrando la evolución de teorías o tecnologías. Facilita la identificación de tendencias y vacíos de conocimiento en la literatura.',
     virtualAdvantages: 'Se pueden crear líneas de tiempo interactivas con herramientas digitales que incluyen imágenes, videos y enlaces, enriqueciendo la experiencia de aprendizaje.',
     practicalExample: 'Al estudiar la evolución de la inteligencia artificial, se traza una línea desde 1950 (prueba de Turing) hasta la actualidad, marcando hitos como Deep Blue, Watson, GPT y demás avances significativos.',
-    link: 'https://www.canva.com/es_mx/crear/lineas-de-tiempo/'
+    link: 'https://www.canva.com/graphs/timeline/'
   },
   // Organización Conceptual
   {
     id: 'mapas-conceptuales',
-    name: 'Mapas Conceptuales / Mentales',
+    name: 'Mapas Conceptuales',
+    category: 'tecnicas',
+    subcategory: 'organizacion',
+    icon: '🧩',
+    description: 'Representación gráfica de esquemas de conocimiento con conceptos y relaciones jerárquicas.',
+    fullDescription: 'Los mapas conceptuales organizan el conocimiento de forma estructurada mediante nodos y palabras enlace, facilitando la comprensión de las conexiones jerárquicas entre ideas.',
+    scientificUse: 'Ideales para estructurar el marco teórico, conceptualizar variables complejas y organizar las categorías de análisis de la investigación.',
+    virtualAdvantages: 'Permiten la construcción y discusión en tiempo real dentro de pizarras colaborativas o plataformas de mapas en la nube.',
+    practicalExample: 'Estructurar la variable "competencia investigativa" y conectarla jerárquicamente con sus dimensiones teóricas e indicadores.',
+    link: 'https://www.canva.com/graphs/concept-maps/'
+  },
+  {
+    id: 'mapas-mentales',
+    name: 'Mapas Mentales',
     category: 'tecnicas',
     subcategory: 'organizacion',
     icon: '🧠',
-    description: 'Diagramas jerárquicos que representan relaciones entre conceptos o ideas.',
-    fullDescription: 'Los mapas conceptuales organizan el conocimiento mediante nodos conectados por líneas etiquetadas, mientras que los mapas mentales parten de una idea central y se ramifican radialmente. Ambos facilitan la estructuración del pensamiento.',
-    scientificUse: 'Son ideales para sintetizar teorías, organizar el marco teórico y visualizar las relaciones entre variables de investigación. Favorecen la comprensión profunda y la memorización significativa.',
-    virtualAdvantages: 'Existen numerosas herramientas digitales (MindMeister, XMind, CmapTools) que permiten crear, compartir y editar mapas colaborativamente en la nube.',
-    practicalExample: 'Al investigar metodologías ágiles, se crea un mapa conceptual con Scrum como nodo central, conectando roles, eventos, artefactos y principios, facilitando la comprensión de sus interrelaciones.',
-    link: 'https://www.mindmeister.com/es'
+    description: 'Diagramas radiales que organizan ideas y conceptos en torno a un núcleo central.',
+    fullDescription: 'Herramienta visual que permite organizar libremente y asociar ideas de forma no lineal partiendo de un tema central, estimulando el pensamiento creativo.',
+    scientificUse: 'Excelentes para la lluvia de ideas inicial, estructuración del alcance de la investigación y desglose inicial de variables.',
+    virtualAdvantages: 'Se editan colaborativamente en la nube, se comparten mediante enlaces interactivos y se exportan fácilmente como gráficos.',
+    practicalExample: 'Desglosar en ramas radiales los diferentes subtemas posibles para una propuesta de enseñanza virtual de la ciencia.',
+    link: 'https://www.mindmeister.com/'
+  },
+  {
+    id: 'referencia-novak',
+    name: 'Referencia Clave (Novak y Cañas)',
+    category: 'tecnicas',
+    subcategory: 'organizacion',
+    icon: '📌',
+    description: 'Sustento metodológico y conceptual del mapa conceptual como organizador de conocimiento.',
+    fullDescription: 'El marco teórico de Joseph Novak y Alberto Cañas fundamenta al mapa conceptual como una herramienta idónea para estructurar ideas, basada en el aprendizaje significativo.',
+    scientificUse: 'Aporta el fundamento pedagógico que valida el uso de mapas para la síntesis conceptual y la coherencia en investigaciones científicas.',
+    virtualAdvantages: 'Recurso educativo digital listo para integrarse en Genially, Canva, blogs o aulas virtuales para guiar al estudiante de tesis.',
+    practicalExample: 'Diseñar y documentar la coherencia interna de una investigación (pregunta, objetivos y métodos) bajo la teoría del aprendizaje significativo.',
+    link: 'https://cmap.ihmc.us/docs/theory-of-concept-maps'
   },
   // Revisión de Fuentes
   {
@@ -80,7 +106,7 @@ const tools = [
     scientificUse: 'Fomentan el pensamiento crítico y la argumentación fundamentada. Permiten discutir hallazgos, contrastar perspectivas y construir consensos en comunidades académicas distribuidas.',
     virtualAdvantages: 'Al no requerir coincidencia horaria, facilitan la participación reflexiva de todos los miembros del equipo, documentando el proceso de discusión para referencia futura.',
     practicalExample: 'En un curso de metodología, se abre un foro sobre "Validez y confiabilidad en investigación cualitativa" donde cada estudiante aporta un artículo de referencia y los demás comentan su pertinencia.',
-    link: 'https://moodle.org/'
+    link: 'https://docs.moodle.org/en/Forum_activity'
   },
   {
     id: 'paneles',
@@ -93,7 +119,7 @@ const tools = [
     scientificUse: 'Permite contrastar enfoques metodológicos y teóricos. Es útil en seminarios de investigación para recibir retroalimentación de múltiples expertos sobre un proyecto.',
     virtualAdvantages: 'Las plataformas de videoconferencia permiten reunir expertos de diferentes instituciones y países, grabando la sesión para su difusión asíncrona.',
     practicalExample: 'En un seminario de tesis, tres docentes con diferentes enfoques (cuantitativo, cualitativo y mixto) discuten la metodología más adecuada para un proyecto específico.',
-    link: 'https://support.google.com/meet/'
+    link: 'https://support.zoom.com/hc'
   },
   {
     id: 'debates',
@@ -106,7 +132,7 @@ const tools = [
     scientificUse: 'Desarrolla habilidades de argumentación, pensamiento crítico y síntesis. Ayuda a examinar todas las aristas de un problema de investigación antes de tomar una postura.',
     virtualAdvantages: 'Se pueden realizar debates sincrónicos por videoconferencia o asíncronos en foros, permitiendo a los participantes preparar mejor sus argumentos.',
     practicalExample: 'Se organiza un debate sobre "¿Es ético usar IA para generar contenido académico?" donde un equipo defiende su uso como herramienta de apoyo y otro argumenta los riesgos de dependencia tecnológica.',
-    link: 'https://www.mentimeter.com/'
+    link: 'https://www.canva.com/education/'
   },
   // ===== MEDIOS DE COMUNICACIÓN Y EXPOSICIÓN =====
   {
@@ -146,7 +172,7 @@ const tools = [
     scientificUse: 'Permite crear catálogos interactivos de herramientas de investigación, líneas de tiempo animadas y mapas conceptuales con elementos interactivos que enriquecen la comunicación científica.',
     virtualAdvantages: 'Todo el contenido se visualiza en el navegador sin instalar software. Incluye plantillas prediseñadas y se integra con LMS como Moodle para seguimiento.',
     practicalExample: 'Se crea una infografía interactiva sobre el método científico donde cada paso (observación, pregunta, hipótesis, experimentación) se despliega al hacer clic, mostrando ejemplos y recursos adicionales.',
-    link: 'https://genially.com/'
+    link: 'https://genially.com/es/'
   },
   {
     id: 'canva',
@@ -159,7 +185,7 @@ const tools = [
     scientificUse: 'Facilita la creación de materiales visuales para comunicar resultados de investigación: pósters académicos, infografías de datos, presentaciones de congresos y figuras para publicaciones.',
     virtualAdvantages: 'Permite la edición colaborativa en tiempo real, con biblioteca de recursos gráficos y elementos de marca. Los diseños se almacenan en la nube y se comparten por enlace.',
     practicalExample: 'El equipo de investigación diseña un póster académico sobre los resultados de su estudio usando una plantilla de Canva, personalizando colores institucionales y añadiendo gráficos de datos.',
-    link: 'https://www.canva.com/'
+    link: 'https://www.canva.com/presentations/'
   },
   {
     id: 'powerpoint',
@@ -172,13 +198,13 @@ const tools = [
     scientificUse: 'Útil para crear catálogos interactivos, menús de navegación para defensas de tesis y presentaciones modulares donde el usuario elige qué contenido explorar.',
     virtualAdvantages: 'Se puede exportar a PDF interactivo o video, o compartirse online mediante OneDrive. Los botones de acción permiten simular una navegación tipo web dentro de la presentación.',
     practicalExample: 'Se diseña un catálogo de herramientas didácticas donde la diapositiva principal funciona como menú con botones que llevan a secciones específicas: técnicas, medios, evaluación y recursos.',
-    link: 'https://www.microsoft.com/powerpoint'
+    link: 'https://support.microsoft.com/powerpoint'
   },
   {
     id: 'zoom',
     name: 'Zoom',
     category: 'comunicacion',
-    subcategory: 'exposicion',
+    subcategory: 'sincronica',
     icon: '📹',
     description: 'Plataforma de videoconferencias para clases y reuniones síncronas.',
     fullDescription: 'Herramienta de comunicación audiovisual que permite reuniones virtuales con múltiples participantes, compartir pantalla, salas de grupos, pizarra virtual y grabación de sesiones.',
@@ -191,7 +217,7 @@ const tools = [
     id: 'google-meet',
     name: 'Google Meet',
     category: 'comunicacion',
-    subcategory: 'exposicion',
+    subcategory: 'sincronica',
     icon: '🔵',
     description: 'Videollamadas integradas con Google Workspace para educación.',
     fullDescription: 'Servicio de videoconferencias de Google que se integra nativamente con Google Classroom, Calendar y Drive, ofreciendo subtítulos automáticos, presentación de pantalla y grabación.',
@@ -204,14 +230,14 @@ const tools = [
     id: 'whatsapp',
     name: 'WhatsApp Académico',
     category: 'comunicacion',
-    subcategory: 'exposicion',
+    subcategory: 'sincronica',
     icon: '💚',
     description: 'Mensajería instantánea para comunicación académica rápida.',
     fullDescription: 'Aplicación de mensajería que permite comunicación instantánea grupal e individual, envío de documentos, imágenes, audios y videos, utilizada como canal de comunicación académica informal pero efectiva.',
     scientificUse: 'Facilita la coordinación rápida de equipos de investigación, el intercambio de recursos y la resolución de dudas inmediatas durante el desarrollo de proyectos académicos.',
     virtualAdvantages: 'Está presente en prácticamente todos los dispositivos móviles. Los grupos permiten comunicación asíncrona con notificaciones en tiempo real y compartición de archivos.',
     practicalExample: 'El equipo de investigación crea un grupo de WhatsApp para compartir enlaces a artículos, coordinar reuniones, resolver dudas rápidas y mantener comunicación fluida entre sesiones formales.',
-    link: 'https://web.whatsapp.com/'
+    link: 'https://www.whatsapp.com/'
   },
   // ===== MEDIOS DE CO-CREACIÓN Y ORGANIZACIÓN =====
   {
@@ -259,12 +285,12 @@ const tools = [
     category: 'cocreacion',
     subcategory: 'colaboracion',
     icon: '✏️',
-    description: 'Pizarra digital interactiva de Google Workspace.',
-    fullDescription: 'Pizarra digital colaborativa de Google que permite dibujar, escribir, añadir notas adhesivas, imágenes y formas, ideal para sesiones de brainstorming y explicaciones visuales en tiempo real.',
+    description: 'Pizarra digital interactiva referencial (servicio retirado por Google).',
+    fullDescription: 'Aunque Google retiró oficialmente este servicio, funciona en el ámbito educativo como el antecedente clásico de pizarras colaborativas visuales en tiempo real.',
     scientificUse: 'Facilita la explicación visual de conceptos complejos durante tutorías virtuales, la resolución colaborativa de problemas y la diagramación de procesos de investigación.',
     virtualAdvantages: 'Se integra nativamente con Google Workspace. Los Jams se guardan automáticamente en Drive y se comparten con el mismo sistema de permisos de Google.',
     practicalExample: 'Durante una tutoría virtual, el profesor y el estudiante trabajan simultáneamente en un Jamboard para diagramar el diseño metodológico de la investigación, ajustando variables y relaciones.',
-    link: 'https://jamboard.google.com/'
+    link: 'https://support.google.com/jamboard?hl=es'
   },
   {
     id: 'lucidchart',
@@ -367,7 +393,7 @@ const tools = [
     subcategory: 'gestion',
     icon: '🎓',
     description: 'LMS de código abierto para gestión de cursos y aprendizaje virtual.',
-    fullDescription: 'Plataforma de aprendizaje virtual más utilizada en educación superior, que permite crear cursos online con foros, tareas, cuestionarios, wikis, glosarios y sistema de calificaciones.',
+    fullDescription: 'Plataforma de aprendizaje virtual más utilizada en educación superior, que permite crear cursos online con foros, tareas, cuestionarios, wikis, glosarios and sistema de calificaciones.',
     scientificUse: 'Sirve como repositorio central de cursos de metodología, aloja materiales de investigación, gestiona entregas de proyectos y facilita la comunicación asíncrona entre tutores e investigadores.',
     virtualAdvantages: 'Es gratuito, altamente personalizable y compatible con estándares SCORM. Cuenta con herramientas de seguimiento, reportes de actividad y plugins para videoconferencia y autenticación.',
     practicalExample: 'El curso de "Metodología de la Investigación" en Moodle contiene: foro de novedades, unidades temáticas con recursos, tareas de avance de proyecto, cuestionarios autocalificables y calificaciones visibles.',
@@ -482,7 +508,8 @@ const subcategoryMeta = {
     title: 'Medios de Comunicación y Exposición',
     description: 'Plataformas y herramientas para presentar, comunicar y difundir contenido académico de forma efectiva.',
     subs: {
-      exposicion: { title: 'Medios de Exposición', desc: 'Herramientas para crear y presentar contenido visual e interactivo.' }
+      exposicion: { title: 'Medios de Exposición', desc: 'Herramientas para crear y presentar contenido visual e interactivo.' },
+      sincronica: { title: 'Comunicación Sincrónica y Académica', desc: 'Canales sincrónicos y de comunicación inmediata para soporte y tutoría.' }
     }
   },
   cocreacion: {
