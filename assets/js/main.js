@@ -12,7 +12,9 @@ const tools = [
     scientificUse: 'Se utiliza para descomponer problemas complejos de investigación en factores manejables. Ayuda a formular hipótesis causales y a estructurar el marco teórico en torno a variables interrelacionadas.',
     virtualAdvantages: 'Facilita la lluvia de ideas en equipos remotos usando pizarras digitales colaborativas. Permite que cada integrante aporte causas desde su perspectiva en tiempo real.',
     practicalExample: 'Al investigar la deserción universitaria, se coloca el problema en la cabeza del pescado y se identifican causas como: factores económicos, académicos, familiares y de salud, cada uno con sus ramificaciones específicas.',
-    link: 'https://miro.com/diagramming/what-is-a-fishbone-diagram/'
+    link: 'https://miro.com/diagramming/what-is-a-fishbone-diagram/',
+    youtubeLink: 'https://www.youtube.com/watch?v=xXdxOJxCu54',
+    youtubeDescription: 'Video sugerido: DIAGRAMA DE ISHIKAWA'
   },
   {
     id: 'arbol-problemas',
@@ -25,7 +27,9 @@ const tools = [
     scientificUse: 'Permite definir con precisión el problema de investigación y visualizar sus dimensiones. Es útil para la elaboración del planteamiento del problema y la justificación del estudio.',
     virtualAdvantages: 'Se puede construir colaborativamente en plataformas como Miro o Lucidchart. Cada miembro del equipo puede añadir causas y efectos desde cualquier ubicación.',
     practicalExample: 'Para investigar la baja producción científica en una universidad, se coloca este problema como tronco, las raíces serían falta de capacitación y recursos, y las ramas serían pocas publicaciones y bajo impacto académico.',
-    link: 'https://miro.com/templates/problem-tree/'
+    link: 'https://miro.com/templates/problem-tree/',
+    youtubeLink: 'https://www.youtube.com/watch?v=eO7sNmZ9Ut8',
+    youtubeDescription: 'Video sugerido: ¿COMO HACER UN ÁRBOL  DE PROBLEMAS? -  DEFINICIÓN, EJEMPLO Y ...'
   },
   {
     id: 'lineas-tiempo',
@@ -38,7 +42,9 @@ const tools = [
     scientificUse: 'Ayuda a contextualizar el estado del arte mostrando la evolución de teorías o tecnologías. Facilita la identificación de tendencias y vacíos de conocimiento en la literatura.',
     virtualAdvantages: 'Se pueden crear líneas de tiempo interactivas con herramientas digitales que incluyen imágenes, videos y enlaces, enriqueciendo la experiencia de aprendizaje.',
     practicalExample: 'Al estudiar la evolución de la inteligencia artificial, se traza una línea desde 1950 (prueba de Turing) hasta la actualidad, marcando hitos como Deep Blue, Watson, GPT y demás avances significativos.',
-    link: 'https://www.canva.com/create/timeline-maker/'
+    link: 'https://www.canva.com/es_mx/crear/lineas-tiempo/',
+    youtubeLink: 'https://www.youtube.com/watch?v=psNu_mB4zGM',
+    youtubeDescription: 'Video sugerido: COMO HACER UNA LINEA DE TIEMPO CREATIVA Y MODERNA MANUALIDAD ...'
   },
   // Organización Conceptual
   {
@@ -52,7 +58,9 @@ const tools = [
     scientificUse: 'Ideales para estructurar el marco teórico, conceptualizar variables complejas y organizar las categorías de análisis de la investigación.',
     virtualAdvantages: 'Permiten la construcción y discusión en tiempo real dentro de pizarras colaborativas o plataformas de mapas en la nube.',
     practicalExample: 'Estructurar la variable "competencia investigativa" y conectarla jerárquicamente con sus dimensiones teóricas e indicadores.',
-    link: 'https://www.canva.com/create/concept-maps/'
+    link: 'https://www.canva.com/graphs/concept-maps/',
+    youtubeLink: 'https://www.youtube.com/watch?v=BJS_QBn_GmY',
+    youtubeDescription: 'Video sugerido: Como Hacer un MAPA CONCEPTUAL en 5 Pasos'
   },
   {
     id: 'mapas-mentales',
@@ -65,7 +73,9 @@ const tools = [
     scientificUse: 'Excelentes para la lluvia de ideas inicial, estructuración del alcance de la investigación y desglose inicial de variables.',
     virtualAdvantages: 'Se editan colaborativamente en la nube, se comparten mediante enlaces interactivos y se exportan fácilmente como gráficos.',
     practicalExample: 'Desglosar en ramas radiales los diferentes subtemas posibles para una propuesta de enseñanza virtual de la ciencia.',
-    link: 'https://www.mindmeister.com/'
+    link: 'https://www.mindmeister.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=STAtmg5N_tE',
+    youtubeDescription: 'Video sugerido: Cómo Hacer un Mapa Mental Fácil y Rápido   Paso a Paso con Ej...'
   },
   {
     id: 'referencia-novak',
@@ -78,7 +88,9 @@ const tools = [
     scientificUse: 'Aporta el fundamento pedagógico que valida el uso de mapas para la síntesis conceptual y la coherencia en investigaciones científicas.',
     virtualAdvantages: 'Recurso educativo digital listo para integrarse en Genially, Canva, blogs o aulas virtuales para guiar al estudiante de tesis.',
     practicalExample: 'Diseñar y documentar la coherencia interna de una investigación (pregunta, objetivos y métodos) bajo la teoría del aprendizaje significativo.',
-    link: 'https://cmap.ihmc.us/docs/theory-of-concept-maps'
+    link: 'https://cmap.ihmc.us/docs/theory-of-concept-maps',
+    youtubeLink: 'https://www.youtube.com/watch?v=sD55F0ysBXk',
+    youtubeDescription: 'Video sugerido: TEORÍA DEL APRENDIZAJE de Joseph Novak - Mapa Conceptual'
   },
   // Revisión de Fuentes
   {
@@ -92,7 +104,9 @@ const tools = [
     scientificUse: 'Permite filtrar grandes volúmenes de literatura científica en poco tiempo. Es el primer paso en la revisión sistemática de la literatura y ayuda a construir el estado del arte.',
     virtualAdvantages: 'Los buscadores académicos (Google Scholar, Scopus) y gestores de referencias facilitan la barrida digital con filtros por año, autor, keywords y métricas de impacto.',
     practicalExample: 'Al iniciar una investigación sobre ciberseguridad, se ingresan palabras clave en Google Scholar y se revisan títulos y abstracts de los 50 resultados más recientes para seleccionar los 10 artículos más relevantes.',
-    link: 'https://scholar.google.com/'
+    link: 'https://scholar.google.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=4z9ypuLY5_M',
+    youtubeDescription: 'Video sugerido: Como usar Google Académico - Google Scholar - ESimple'
   },
   // Comunicación Académica
   {
@@ -106,7 +120,9 @@ const tools = [
     scientificUse: 'Fomentan el pensamiento crítico y la argumentación fundamentada. Permiten discutir hallazgos, contrastar perspectivas y construir consensos en comunidades académicas distribuidas.',
     virtualAdvantages: 'Al no requerir coincidencia horaria, facilitan la participación reflexiva de todos los miembros del equipo, documentando el proceso de discusión para referencia futura.',
     practicalExample: 'En un curso de metodología, se abre un foro sobre "Validez y confiabilidad en investigación cualitativa" donde cada estudiante aporta un artículo de referencia y los demás comentan su pertinencia.',
-    link: 'https://docs.moodle.org/en/Forum_activity'
+    link: 'https://docs.moodle.org/en/Forum_activity',
+    youtubeLink: 'https://www.youtube.com/watch?v=XqDuVVM0N08',
+    youtubeDescription: 'Video sugerido: COMO PARTICIPAR EN UN FORO - PLATAFORMA MOODLE'
   },
   {
     id: 'paneles',
@@ -119,7 +135,9 @@ const tools = [
     scientificUse: 'Permite contrastar enfoques metodológicos y teóricos. Es útil en seminarios de investigación para recibir retroalimentación de múltiples expertos sobre un proyecto.',
     virtualAdvantages: 'Las plataformas de videoconferencia permiten reunir expertos de diferentes instituciones y países, grabando la sesión para su difusión asíncrona.',
     practicalExample: 'En un seminario de tesis, tres docentes con diferentes enfoques (cuantitativo, cualitativo y mixto) discuten la metodología más adecuada para un proyecto específico.',
-    link: 'https://support.zoom.com/hc'
+    link: 'https://support.zoom.com/hc',
+    youtubeLink: 'https://www.youtube.com/watch?v=PHhl4Rw-yLI',
+    youtubeDescription: 'Video sugerido: ¿Cómo moderar un panel o conversatorio?  Comunicación Asertiv...'
   },
   {
     id: 'debates',
@@ -132,7 +150,9 @@ const tools = [
     scientificUse: 'Desarrolla habilidades de argumentación, pensamiento crítico y síntesis. Ayuda a examinar todas las aristas de un problema de investigación antes de tomar una postura.',
     virtualAdvantages: 'Se pueden realizar debates sincrónicos por videoconferencia o asíncronos en foros, permitiendo a los participantes preparar mejor sus argumentos.',
     practicalExample: 'Se organiza un debate sobre "¿Es ético usar IA para generar contenido académico?" donde un equipo defiende su uso como herramienta de apoyo y otro argumenta los riesgos de dependencia tecnológica.',
-    link: 'https://www.canva.com/education/'
+    link: 'https://www.canva.com/education/',
+    youtubeLink: 'https://www.youtube.com/watch?v=xdVgHYLMSjk',
+    youtubeDescription: 'Video sugerido: Debate Como organizar el trabajo del equipo de debate'
   },
   // ===== MEDIOS DE COMUNICACIÓN Y EXPOSICIÓN =====
   {
@@ -146,7 +166,9 @@ const tools = [
     scientificUse: 'Permiten demostrar procedimientos experimentales, explicar conceptos complejos mediante animaciones y presentar resultados de investigación a audiencias amplias.',
     virtualAdvantages: 'Se pueden alojar en plataformas como YouTube o Vimeo, con opciones de subtítulos, velocidad variable y acceso permanente desde cualquier dispositivo.',
     practicalExample: 'Para explicar el funcionamiento de un algoritmo de machine learning, se crea un video animado que muestra paso a paso cómo los datos fluyen a través del modelo.',
-    link: 'https://www.youtube.com/'
+    link: 'https://www.youtube.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=tuoHAYJdetw',
+    youtubeDescription: 'Video sugerido: ¿Cómo CONFIGURAR YouTube PARA NIÑOS? -  Protege el Contenido ...'
   },
   {
     id: 'prezi',
@@ -159,7 +181,9 @@ const tools = [
     scientificUse: 'Ideal para presentar proyectos de investigación que requieren mostrar relaciones jerárquicas entre conceptos, permitiendo al público visualizar el panorama general y acercarse a detalles específicos.',
     virtualAdvantages: 'Su formato interactivo mantiene la atención de la audiencia remota. Las presentaciones se comparten mediante enlace sin necesidad de descargar archivos pesados.',
     practicalExample: 'Al presentar un proyecto de investigación, se muestra primero el mapa general del estudio y se hace zoom a cada fase: problema, marco teórico, metodología, resultados y conclusiones.',
-    link: 'https://prezi.com/'
+    link: 'https://prezi.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=V5ptKcVNni4',
+    youtubeDescription: 'Video sugerido: Prezi Tutorial 2022 GRATIS  Cómo usar Prezi paso a paso y hac...'
   },
   {
     id: 'genially',
@@ -172,7 +196,9 @@ const tools = [
     scientificUse: 'Permite crear catálogos interactivos de herramientas de investigación, líneas de tiempo animadas y mapas conceptuales con elementos interactivos que enriquecen la comunicación científica.',
     virtualAdvantages: 'Todo el contenido se visualiza en el navegador sin instalar software. Incluye plantillas prediseñadas y se integra con LMS como Moodle para seguimiento.',
     practicalExample: 'Se crea una infografía interactiva sobre el método científico donde cada paso (observación, pregunta, hipótesis, experimentación) se despliega al hacer clic, mostrando ejemplos y recursos adicionales.',
-    link: 'https://genially.com/es/'
+    link: 'https://genially.com/es/',
+    youtubeLink: 'https://www.youtube.com/watch?v=ffzVQYsVGUY',
+    youtubeDescription: 'Video sugerido: Tutorial Genially desde cero 2024 ¿Cómo utilizar Genially? pa...'
   },
   {
     id: 'canva',
@@ -185,7 +211,9 @@ const tools = [
     scientificUse: 'Facilita la creación de materiales visuales para comunicar resultados de investigación: pósters académicos, infografías de datos, presentaciones de congresos y figuras para publicaciones.',
     virtualAdvantages: 'Permite la edición colaborativa en tiempo real, con biblioteca de recursos gráficos y elementos de marca. Los diseños se almacenan en la nube y se comparten por enlace.',
     practicalExample: 'El equipo de investigación diseña un póster académico sobre los resultados de su estudio usando una plantilla de Canva, personalizando colores institucionales y añadiendo gráficos de datos.',
-    link: 'https://www.canva.com/create/presentations/'
+    link: 'https://www.canva.com/create/presentations/',
+    youtubeLink: 'https://www.youtube.com/watch?v=K_h8vVleTC0',
+    youtubeDescription: 'Video sugerido: Como usar CANVA GRATIS 2026 TUTORIAL'
   },
   {
     id: 'powerpoint',
@@ -198,7 +226,9 @@ const tools = [
     scientificUse: 'Útil para crear catálogos interactivos, menús de navegación para defensas de tesis y presentaciones modulares donde el usuario elige qué contenido explorar.',
     virtualAdvantages: 'Se puede exportar a PDF interactivo o video, o compartirse online mediante OneDrive. Los botones de acción permiten simular una navegación tipo web dentro de la presentación.',
     practicalExample: 'Se diseña un catálogo de herramientas didácticas donde la diapositiva principal funciona como menú con botones que llevan a secciones específicas: técnicas, medios, evaluación y recursos.',
-    link: 'https://support.microsoft.com/powerpoint'
+    link: 'https://support.microsoft.com/powerpoint',
+    youtubeLink: 'https://www.youtube.com/watch?v=XMGOaUGJNJY',
+    youtubeDescription: 'Video sugerido: Como hacer DISEÑO de presentacion con CIRCULO ANIMADO en POWE...'
   },
   {
     id: 'zoom',
@@ -211,7 +241,9 @@ const tools = [
     scientificUse: 'Facilita reuniones de equipos de investigación distribuidos, defensas de tesis virtuales, seminarios web académicos y tutorías personalizadas a distancia.',
     virtualAdvantages: 'Soporta hasta 100 participantes en versión gratuita, con salas simultáneas para trabajo en grupos pequeños. Las sesiones se graban para referencia posterior.',
     practicalExample: 'El equipo de investigación se reúne semanalmente por Zoom para reportar avances. Usan salas de grupos para discutir subtemas y luego comparten conclusiones en la sala principal.',
-    link: 'https://zoom.us/'
+    link: 'https://zoom.us/',
+    youtubeLink: 'https://www.youtube.com/watch?v=T1kmBymQTs4',
+    youtubeDescription: 'Video sugerido: Como Usar Zoom Para Dar Clases Virtuales'
   },
   {
     id: 'google-meet',
@@ -224,7 +256,9 @@ const tools = [
     scientificUse: 'Perfecto para tutorías académicas, reuniones de equipos de investigación que usan el ecosistema Google y clases virtuales con integración directa al LMS.',
     virtualAdvantages: 'No requiere instalación (funciona en el navegador), tiene subtítulos automáticos en tiempo real y se integra con Google Calendar para programar sesiones recurrentes.',
     practicalExample: 'El tutor programa asesorías de tesis mediante Google Meet desde Google Calendar. Los estudiantes reciben el enlace automáticamente y la sesión se graba en Google Drive.',
-    link: 'https://meet.google.com/'
+    link: 'https://meet.google.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=993GyGpakuw',
+    youtubeDescription: 'Video sugerido: Cómo usar GOOGLE MEET en PC  Guía Completa'
   },
   {
     id: 'whatsapp',
@@ -237,7 +271,9 @@ const tools = [
     scientificUse: 'Facilita la coordinación rápida de equipos de investigación, el intercambio de recursos y la resolución de dudas inmediatas durante el desarrollo de proyectos académicos.',
     virtualAdvantages: 'Está presente en prácticamente todos los dispositivos móviles. Los grupos permiten comunicación asíncrona con notificaciones en tiempo real y compartición de archivos.',
     practicalExample: 'El equipo de investigación crea un grupo de WhatsApp para compartir enlaces a artículos, coordinar reuniones, resolver dudas rápidas y mantener comunicación fluida entre sesiones formales.',
-    link: 'https://www.whatsapp.com/'
+    link: 'https://www.whatsapp.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=5m212fLuPAs',
+    youtubeDescription: 'Video sugerido: Como Hacer Clases Virtuales Por WhatsApp'
   },
   // ===== MEDIOS DE CO-CREACIÓN Y ORGANIZACIÓN =====
   {
@@ -251,7 +287,9 @@ const tools = [
     scientificUse: 'Ideal para sesiones de lluvia de ideas, construcción colaborativa de mapas conceptuales, diseño de metodologías de investigación y planificación visual de proyectos académicos.',
     virtualAdvantages: 'Espacio de trabajo infinito que soporta múltiples formatos. Permite la colaboración asíncrona con comentarios y seguimiento de cambios. Se integra con Teams, Slack y Jira.',
     practicalExample: 'El equipo de investigación utiliza Miro para diseñar el flujo de trabajo del proyecto, usando sticky notes de colores para cada fase: recolección de datos, análisis, interpretación y redacción.',
-    link: 'https://miro.com/'
+    link: 'https://miro.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=rXyyjgL5sJA',
+    youtubeDescription: 'Video sugerido: Cómo usar MIRO app   Trabajo colaborativo online'
   },
   {
     id: 'mindmeister',
@@ -264,7 +302,9 @@ const tools = [
     scientificUse: 'Perfecta para organizar visualmente el marco teórico, planificar capítulos de tesis, estructurar artículos científicos y desglosar objetivos de investigación en tareas concretas.',
     virtualAdvantages: 'Permite que varios investigadores editen simultáneamente el mismo mapa desde cualquier ubicación, con historial de cambios y modo presentación integrado.',
     practicalExample: 'Al planificar una tesis, se crea un mapa mental con el tema central y ramas para: introducción, marco teórico, metodología, resultados, discusión y conclusiones, asignando responsables a cada rama.',
-    link: 'https://www.mindmeister.com/'
+    link: 'https://www.mindmeister.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=4N1QES2ubRs',
+    youtubeDescription: 'Video sugerido: Mindmeister tutorial en español.'
   },
   {
     id: 'padlet',
@@ -275,9 +315,11 @@ const tools = [
     description: 'Muro virtual colaborativo para compartir recursos e ideas visualmente.',
     fullDescription: 'Plataforma visual que funciona como un tablero de corcho digital donde los participantes pueden publicar notas, imágenes, videos, enlaces y documentos de forma colaborativa y organizada.',
     scientificUse: 'Útil para realizar curaduría colectiva de fuentes bibliográficas, compartir hallazgos de investigación y crear galerías virtuales de proyectos académicos.',
-    virtualAdvantages: 'Interfaz intuitiva y visual. Se personaliza con diferentes diseños (muro, lienzo, línea de tiempo, mapa). Los muros se incrustan en LMS y sitios web.',
+    virtualAdvantages: 'Interfaz intuitiva y visual. Se personaliza con diferentes designs (muro, lienzo, línea de tiempo, mapa). Los muros se incrustan en LMS y sitios web.',
     practicalExample: 'En un seminario de investigación, cada estudiante publica en Padlet un artículo científico que encontró, con un breve resumen y por qué es relevante para su tema. Todos ven y comentan las publicaciones.',
-    link: 'https://padlet.com/'
+    link: 'https://padlet.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=nE0wA3nrh4Y',
+    youtubeDescription: 'Video sugerido: Tutorial PADLET  Qué es y cómo utilizarlo  Guía paso a paso'
   },
   {
     id: 'jamboard',
@@ -290,7 +332,9 @@ const tools = [
     scientificUse: 'Facilita la explicación visual de conceptos complejos durante tutorías virtuales, la resolución colaborativa de problemas y la diagramación de procesos de investigación.',
     virtualAdvantages: 'Se integra nativamente con Google Workspace. Los Jams se guardan automáticamente en Drive y se comparten con el mismo sistema de permisos de Google.',
     practicalExample: 'Durante una tutoría virtual, el profesor y el estudiante trabajan simultáneamente en un Jamboard para diagramar el diseño metodológico de la investigación, ajustando variables y relaciones.',
-    link: 'https://support.google.com/jamboard?hl=es'
+    link: 'https://support.google.com/jamboard?hl=es',
+    youtubeLink: 'https://www.youtube.com/watch?v=hAlduBWEeHQ',
+    youtubeDescription: 'Video sugerido: Cómo usar Google JAMBOARD   Tu PIZARRA Interactiva Online'
   },
   {
     id: 'lucidchart',
@@ -303,7 +347,9 @@ const tools = [
     scientificUse: 'Ideal para diseñar diagramas de flujo metodológicos, representar arquitecturas de sistemas, modelar bases de datos y crear diagramas de proceso para publicaciones científicas.',
     virtualAdvantages: 'Cuenta con una biblioteca extensa de plantillas y figuras. Se integra con Confluence, Jira, Microsoft Teams y Google Workspace. Permite exportar en alta resolución.',
     practicalExample: 'Para documentar la metodología de un proyecto de software, se crea un diagrama de flujo que muestra desde la recolección de requisitos hasta el despliegue, con decisiones y ciclos de retroalimentación.',
-    link: 'https://www.lucidchart.com/'
+    link: 'https://www.lucidchart.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=8VqlzBxjGJw',
+    youtubeDescription: 'Video sugerido: Cómo usar Lucidchart en 3 minutos'
   },
   {
     id: 'trello',
@@ -316,7 +362,9 @@ const tools = [
     scientificUse: 'Permite gestionar el ciclo de vida de un proyecto de investigación: desde la revisión de literatura hasta la publicación, asignando responsables, fechas límite y etiquetas de prioridad.',
     virtualAdvantages: 'Interfaz visual e intuitiva. Soporta checklists, fechas de vencimiento, etiquetas, archivos adjuntos y comentarios. Se integra con Slack, Google Drive y calendarios.',
     practicalExample: 'El equipo crea un tablero Trello con listas: "Por hacer", "En curso", "En revisión" y "Completado". Cada tarea del proyecto de investigación es una tarjeta asignada a un miembro.',
-    link: 'https://trello.com/'
+    link: 'https://trello.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=PvggrbuZA9Y',
+    youtubeDescription: 'Video sugerido: Como Usar Trello Para Principiantes  Tutorial En Español 2026'
   },
   {
     id: 'notion',
@@ -329,7 +377,9 @@ const tools = [
     scientificUse: 'Funciona como repositorio central de investigación: almacena referencias bibliográficas, notas de lectura, borradores de artículos, datos de experimentos y actas de reuniones.',
     virtualAdvantages: 'Sincronización en tiempo real con potentes funciones de base de datos. Permite crear plantillas personalizadas, enlazar páginas y compartir espacios de trabajo con el equipo.',
     practicalExample: 'El equipo de investigación crea una base de datos en Notion con todas las fuentes bibliográficas, cada una con campos para autor, año, resumen, palabras clave y estado de lectura.',
-    link: 'https://www.notion.so/'
+    link: 'https://www.notion.so/',
+    youtubeLink: 'https://www.youtube.com/watch?v=VjQcV1WhRo8',
+    youtubeDescription: 'Video sugerido: Cómo Empezar En Notion Sin Volverte Loco - Primeros Pasos Par...'
   },
   // ===== MEDIOS DE EVALUACIÓN Y GESTIÓN =====
   // Gamificación
@@ -344,7 +394,9 @@ const tools = [
     scientificUse: 'Permite evaluar la comprensión de conceptos metodológicos, teorías y técnicas de investigación de forma dinámica, obteniendo reportes detallados del desempeño individual y grupal.',
     virtualAdvantages: 'Los estudiantes responden desde cualquier dispositivo sin necesidad de cuenta. El modo "tarea" permite realizar quizzes asíncronos con fecha límite y múltiples intentos.',
     practicalExample: 'Después de la sesión sobre "Tipos de investigación", el profesor aplica un Quizizz con 15 preguntas. Los estudiantes compiten en tiempo real y al final reciben retroalimentación detallada.',
-    link: 'https://quizizz.com/'
+    link: 'https://quizizz.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=VnzznosaXqw',
+    youtubeDescription: 'Video sugerido: QUIZIZZ TUTORIAL en ESPAÑOL  Como USAR QUIZIZZ PARA PROFESORE...'
   },
   {
     id: 'kahoot',
@@ -357,7 +409,9 @@ const tools = [
     scientificUse: 'Útil como herramienta de diagnóstico inicial para evaluar conocimientos previos sobre metodología, o como repaso interactivo antes de exámenes de investigación.',
     virtualAdvantages: 'Los estudiantes participan desde su celular ingresando un PIN. Incluye modos de juego en equipo y desafíos asíncronos. Las preguntas pueden incluir imágenes y videos.',
     practicalExample: 'Al iniciar el curso de metodología, se aplica un Kahoot diagnóstico con preguntas sobre conceptos básicos: qué es una variable, tipos de muestreo, diferencias entre enfoques cuantitativo y cualitativo.',
-    link: 'https://kahoot.com/'
+    link: 'https://kahoot.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=hxqcO0ihtkA',
+    youtubeDescription: 'Video sugerido: Cómo Usar Kahoot TUTORIAL  En Español 2023'
   },
   {
     id: 'mentimeter',
@@ -370,7 +424,9 @@ const tools = [
     scientificUse: 'Ideal para realizar sondeos de opinión durante seminarios, recoger expectativas de investigación, evaluar la comprensión de conceptos y visualizar datos cualitativos mediante nubes de palabras.',
     virtualAdvantages: 'Los resultados se visualizan en tiempo real en la presentación. La audiencia participa desde su dispositivo sin instalar aplicaciones. Se integra con PowerPoint y Google Slides.',
     practicalExample: 'Durante una exposición sobre tendencias en investigación educativa, el ponente pregunta "¿Cuál consideran el mayor desafío actual?" y las respuestas forman una nube de palabras en vivo.',
-    link: 'https://www.mentimeter.com/'
+    link: 'https://www.mentimeter.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=Vx59Ilgd2oc',
+    youtubeDescription: 'Video sugerido: Cómo usar MENTIMETER   Solo APTO para PRESENTACIONES TOP'
   },
   {
     id: 'wordwall',
@@ -383,7 +439,9 @@ const tools = [
     scientificUse: 'Facilita la creación de actividades lúdicas para repasar terminología científica, clasificar tipos de investigación, emparejar metodologías con ejemplos y reforzar vocabulario técnico.',
     virtualAdvantages: 'Las actividades se pueden asignar como tarea con seguimiento de resultados. Las plantillas son altamente personalizables y se pueden compartir por enlace o incrustar en LMS.',
     practicalExample: 'Se crea una ruleta de Wordwall con términos de metodología. El estudiante gira la ruleta y debe definir el término que sale (ej: "hipótesis", "variable", "muestra") en menos de 30 segundos.',
-    link: 'https://wordwall.net/'
+    link: 'https://wordwall.net/',
+    youtubeLink: 'https://www.youtube.com/watch?v=u_Ll0nfZnno',
+    youtubeDescription: 'Video sugerido: Tutorial de uso Wordwall en Español'
   },
   // Gestión
   {
@@ -397,7 +455,9 @@ const tools = [
     scientificUse: 'Sirve como repositorio central de cursos de metodología, aloja materiales de investigación, gestiona entregas de proyectos y facilita la comunicación asíncrona entre tutores e investigadores.',
     virtualAdvantages: 'Es gratuito, altamente personalizable y compatible con estándares SCORM. Cuenta con herramientas de seguimiento, reportes de actividad y plugins para videoconferencia y autenticación.',
     practicalExample: 'El curso de "Metodología de la Investigación" en Moodle contiene: foro de novedades, unidades temáticas con recursos, tareas de avance de proyecto, cuestionarios autocalificables y calificaciones visibles.',
-    link: 'https://moodle.org/'
+    link: 'https://moodle.org/',
+    youtubeLink: 'https://www.youtube.com/watch?v=n39Ipc-4MTo',
+    youtubeDescription: 'Video sugerido: 01. Manual de Moodle para ESTUDIANTES 2020 LO QUE NECESITAS S...'
   },
   {
     id: 'classroom',
@@ -410,7 +470,9 @@ const tools = [
     scientificUse: 'Facilita la gestión de cursos de investigación, la distribución de materiales, la recolección de trabajos y la retroalimentación continua entre tutores y estudiantes-investigadores.',
     virtualAdvantages: 'Configuración rápida e intuitiva. Las tareas se entregan directamente desde Google Drive. Permite feedback en múltiples formatos y comunicación directa con cada estudiante.',
     practicalExample: 'El tutor crea una clase en Classroom para el semillero de investigación. Publica guías semanales, los estudiantes suben sus avances de proyecto, reciben comentarios y ven sus calificaciones.',
-    link: 'https://classroom.google.com/'
+    link: 'https://classroom.google.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=y7U-9JOPfx0',
+    youtubeDescription: 'Video sugerido: Cómo usar GOOGLE CLASSROOM  Guía Completa para Alumnos y Prof...'
   },
   {
     id: 'canvas',
@@ -423,7 +485,9 @@ const tools = [
     scientificUse: 'Ofrece herramientas avanzadas para la gestión de cursos de posgrado, portafolios digitales de investigación, rúbricas detalladas para evaluar proyectos y conferencias web integradas.',
     virtualAdvantages: 'Interfaz limpia y moderna. Incluye SpeedGrader para calificación eficiente, analíticas de aprendizaje para seguimiento y aplicación móvil completa para estudiantes y docentes.',
     practicalExample: 'En un curso de tesis, los estudiantes suben cada capítulo a Canvas, el profesor usa SpeedGrader para dejar comentarios de voz y texto directamente sobre el documento, y las rúbricas evalúan cada criterio.',
-    link: 'https://www.instructure.com/canvas'
+    link: 'https://www.instructure.com/canvas',
+    youtubeLink: 'https://www.youtube.com/watch?v=9nFrzWlVr1I',
+    youtubeDescription: 'Video sugerido: Canvas LMS  - Primeros Pasos'
   },
   // Investigación
   {
@@ -437,7 +501,9 @@ const tools = [
     scientificUse: 'Automatiza la creación de la base teórica e introductoria. Permite compilar rápidamente normativas, manuales técnicos o papers para estructurar el estado del arte y genera automáticamente las citas (en formatos como APA o IEEE) dentro del procesador de texto.',
     virtualAdvantages: 'Cuenta con una extensión para el navegador web que extrae los metadatos de un documento con un solo clic. Al estar sincronizado en la nube, previene la pérdida de información y facilita el trabajo asíncrono.',
     practicalExample: 'Al investigar sobre integraciones de facturación electrónica con estándares XML UBL 2.1, se guardan las documentaciones técnicas y manuales de servicios SOAP directamente desde el navegador. Luego, al redactar el informe técnico del proyecto, Zotero genera las citas automáticamente sin tener que tipear los datos a mano.',
-    link: 'https://www.zotero.org/'
+    link: 'https://www.zotero.org/',
+    youtubeLink: 'https://www.youtube.com/watch?v=cOweYm7oaZI',
+    youtubeDescription: 'Video sugerido: ¿Cómo usar Zotero? Genera citas y referencias automáticas'
   },
   {
     id: 'mendeley',
@@ -450,7 +516,9 @@ const tools = [
     scientificUse: 'Funciona como un entorno de lectura crítica. Los investigadores pueden subir sus artículos en PDF, resaltarlos, añadir notas adhesivas y cruzar información empírica directamente dentro de la plataforma sin necesidad de imprimir nada.',
     virtualAdvantages: 'Fomenta la creación de grupos de investigación privados. Un equipo distribuido geográficamente puede compartir una misma biblioteca de artículos, ver las anotaciones que dejaron sus compañeros y debatir sobre la literatura dentro del mismo entorno.',
     practicalExample: 'Un equipo que diseña un modelo conceptual de base de datos relacional crea un grupo en Mendeley. Allí suben artículos sobre optimización de esquemas SQL. Un integrante resalta en amarillo los diagramas útiles en el PDF y otro deja un comentario evaluando si esa estructura sirve para el proyecto, todo en la misma plataforma.',
-    link: 'https://www.mendeley.com/'
+    link: 'https://www.mendeley.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=5Uc4e6ULzI4',
+    youtubeDescription: 'Video sugerido: Cómo usar Mendeley  Vídeo tutorial guía  Bibliografía, citas,...'
   },
   {
     id: 'chatgpt',
@@ -463,7 +531,9 @@ const tools = [
     scientificUse: 'Actúa como un asistente para la fase de ideación, revisión y depuración. Útil para traducir documentos técnicos, estructurar índices, resumir metodologías extensas o encontrar errores lógicos en los experimentos prácticos.',
     virtualAdvantages: 'Está disponible 24/7 y proporciona feedback inmediato. Reduce drásticamente la carga cognitiva en tareas mecánicas, permitiendo al investigador enfocarse en el análisis crítico y la toma de decisiones.',
     practicalExample: 'Durante la etapa de desarrollo de la investigación, se le proporciona un bloque de código (por ejemplo, la lógica de un temporizador tipo debounce en Python o la estructura de un archivo YAML) y se le pide que identifique posibles cuellos de botella u optimice el algoritmo antes de incluirlo en el prototipo final.',
-    link: 'https://chatgpt.com/'
+    link: 'https://chatgpt.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=6T1ZXnJLghg',
+    youtubeDescription: 'Video sugerido: Cómo usar chatGPT para tu INVESTIGACIÓN y TESIS  Doctorandos,...'
   },
   {
     id: 'elicit',
@@ -476,7 +546,9 @@ const tools = [
     scientificUse: 'Automatiza la revisión sistemática de literatura al encontrar papers relevantes, extraer automáticamente información clave (metodología, resultados, limitaciones) y mostrar resúmenes comparativos.',
     virtualAdvantages: 'Filtra y prioriza artículos según la pregunta de investigación. Extrae datos estructurados sin leer manualmente cada paper. Los resultados se exportan a CSV para análisis posterior.',
     practicalExample: 'Al investigar sobre "efectos del aprendizaje remoto en estudiantes universitarios", Elicit encuentra los 50 papers más relevantes y extrae automáticamente: tamaño de muestra, metodología usada y principales hallazgos de cada uno.',
-    link: 'https://elicit.com/'
+    link: 'https://elicit.com/',
+    youtubeLink: 'https://www.youtube.com/watch?v=Ye-hMz1sjdQ',
+    youtubeDescription: 'Video sugerido: GUÍA COMPLETA para INVESTIGAR con ELICIT AI paso a paso'
   },
   {
     id: 'scite',
@@ -489,7 +561,9 @@ const tools = [
     scientificUse: 'Permite evaluar la calidad y repercusión de las fuentes bibliográficas al mostrar si otros investigadores apoyan o refutan sus hallazgos, fortaleciendo la credibilidad del marco teórico.',
     virtualAdvantages: 'Visualización interactiva de redes de citación. Muestra el texto exacto donde se cita cada artículo, ahorrando tiempo de verificación manual.',
     practicalExample: 'Al evaluar fuentes para el marco teórico, se ingresa un artículo en Scite y se descubre que de 45 citas recibidas, 30 son de apoyo, 5 contrastan los hallazgos y 10 solo lo mencionan superficialmente.',
-    link: 'https://scite.ai/'
+    link: 'https://scite.ai/',
+    youtubeLink: 'https://www.youtube.com/watch?v=3kYm9OSjSSg',
+    youtubeDescription: 'Video sugerido: Scite - Inteligencias Artificiales 4'
   }
 ];
 
@@ -696,9 +770,19 @@ function openModal(id) {
     </div>
     <div class="modal-field">
       <strong>Recurso de acceso</strong>
-      <a href="${tool.link}" target="_blank" rel="noopener" class="modal-link">
-        Ir a ${linkLabel}
-      </a>
+      <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
+        <a href="${tool.link}" target="_blank" rel="noopener" class="modal-link">
+          Ir a ${linkLabel}
+        </a>
+        ${tool.youtubeLink ? `
+        <div style="display: flex; flex-direction: column; gap: 0.25rem;">
+          <a href="${tool.youtubeLink}" target="_blank" rel="noopener" class="modal-link youtube-btn">
+            🎥 Ver Tutorial en YouTube
+          </a>
+          ${tool.youtubeDescription ? `<small style="color: var(--text-muted); font-size: 0.8rem; margin-top: 0.2rem; display: block; max-width: 250px; line-height: 1.2;">${tool.youtubeDescription}</small>` : ''}
+        </div>
+        ` : ''}
+      </div>
     </div>
   `;
   document.getElementById('modal-overlay').classList.add('open');

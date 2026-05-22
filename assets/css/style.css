@@ -667,6 +667,15 @@ main {
   filter: brightness(1.05);
 }
 
+.modal .youtube-btn {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
+}
+
+.modal .youtube-btn:hover {
+  box-shadow: 0 6px 20px rgba(220, 38, 38, 0.45);
+}
+
 /* Justification & Competencies */
 .justification {
   background: #ffffff;
